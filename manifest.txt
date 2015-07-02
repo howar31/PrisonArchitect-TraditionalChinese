@@ -1,0 +1,7 @@
+Name			"Traditional Chinese"
+Author			"Howar31"
+Description		"Traditional Chinese MOD for alpha-34a by Howar31."
+Version			"v1.0"
+Date			"2015/07/02"
+URL				"howar31.com"
+IsTranslation	true

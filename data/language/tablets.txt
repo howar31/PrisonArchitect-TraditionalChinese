@@ -1,0 +1,19 @@
+interfacecontrol_mainmenu               主選單
+interfacecontrol_mainmenu_tooltip       切換顯示主選單 (新建/讀取/存檔 等等)
+
+object_firemen_hosehelp                 按住不放來移動，按著火焰不放可以手動瞄準水管。
+
+click_to_continue                       按一下繼續...
+gameover_caption                        開啟主選單繼續遊戲
+
+adviser_deathrow_explain5               等待時不妨四處看看，拖動螢幕來移動畫面，用兩隻手指進行縮放。
+
+adviser_deathrow_internaldoors2         點選螢幕右上角的旋轉按鈕，可以在放置物品前旋轉物品的方向。
+
+objective_deathrow_buildinternaldoors   蓋一個內門。
+
+adviser_deathrow_transfer2              按一下選擇他，然後在牢房外面按住不放，即可開始移送囚犯。
+
+objective_deathrow_transferinmate       當你準備好時，就可以開始移送囚犯，按一下選擇他，然後在牢房外面按住不放。
+
+objective_food_extinguishflames_description  當選擇消防隊員時，你可以按著火焰不放來手動瞄準水管，但是火焰距離必須在15格之內。
