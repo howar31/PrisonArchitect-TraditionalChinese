@@ -315,7 +315,7 @@ interface_action_medicalbay                     醫務室
 interface_action_search                         搜索
 interface_action_searchcell                     搜索牢房
 interface_action_searchcellblock                搜索牢房區
-interface_action_sack                           裝麻布袋
+interface_action_sack                           開除
 interface_action_doormodenormal                 門禁模式: 一般
 interface_action_doormodelockedshut             門禁模式: 上鎖
 interface_action_doormodelockedopen             門禁模式: 開放
@@ -2203,7 +2203,7 @@ reform_program_difficulty_intermediate  - 中等
 reform_program_difficulty_advanced      - 進階
 reform_program_difficulty_expert        - 專業
 
-regime_nothing                          關門時間
+regime_nothing                          拘禁
 regime_sleep                            睡覺
 regime_eat                              用餐
 regime_shower                           洗澡
