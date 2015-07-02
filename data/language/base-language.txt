@@ -785,7 +785,7 @@ codex_save_confirm                      你確定要用目前監獄覆蓋 *X 嗎
 
 graphicschange_message					要保留目前的畫質設定嗎？修改的設定將會在
 graphicschange_time						秒後回復原本設定。
-graphicschange_accept					保留
+graphicschange_accept					接受
 graphicschange_revert					回復
 
 # =============================================================================
