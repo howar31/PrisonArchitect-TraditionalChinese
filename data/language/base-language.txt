@@ -667,7 +667,7 @@ codex_option_funds                      起始資金
 codex_tooltip_funds                     你一開始就會有這麼多資金在你的銀行裡，\n在監獄報告的評估頁面出售你之前的監獄來賺取更多起始資金。
 
 codex_transfer							移送
-codex_transferring						移送鐘
+codex_transferring						移送中
 codex_in_prison							目前已收容
 codex_useravatar                        這是我
 codex_tooltip_useravatar                標記這個囚犯就是你，如果你哪天入獄了，這個囚犯就是你的寫照。
