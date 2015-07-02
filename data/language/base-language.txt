@@ -1990,7 +1990,7 @@ object_spiritualleader                   精神領袖
 object_librarybookshelf                  圖書館書架
 object_librarybookunsorted               圖書館書籍 (未整理)
 object_librarybooksorted                 圖書館書籍 (已整理)
-object_sortingtable                      待上架書台
+object_sortingtable                      分類桌
 object_ruinedbook                        損毀的書
 object_foodbowl                          食物
 object_appealslawyer                     上訴律師
@@ -2341,8 +2341,8 @@ prisoner_concentration_4                優秀
 prisoner_passchance                     通過機率: *X%
 prisoner_informant                      秘密線人
 
-prisoner_dayswithoutincident            *X 天無肇事
-prisoner_availablemoney                 可用資金: $*X
+prisoner_dayswithoutincident            *X 天表現良好
+prisoner_availablemoney                 零用錢: $*X
 
 informant_suspicion                     受懷疑程度
 informant_title                         秘密線人
