@@ -765,7 +765,7 @@ codex_mod_published_good_msg			你的模組已經成功發佈。
 codex_mod_published_bad					發佈模組失敗
 codex_mod_published_bad_msg				你的模組發佈失敗。
 codex_mod_modsupdated					模組更新
-codex_mod_modsupdated_msg				使用中的某些模組有新的更新，點選確認套用新的內容，遊戲將會自動存檔。
+codex_mod_modsupdated_msg				使用中的某些模組有新的更新，點選確認套用\n新的內容，遊戲將會自動存檔。
 codex_mod_translationcaption            這是語言包嗎？
 
 codex_language                          語言
@@ -1246,7 +1246,7 @@ job_searchentity                        搜身
 job_searchingentity						搜身中
 job_searchcell                          搜查牢房
 job_searchcellblock                     搜查牢房區
-job_improvecellindoor                   清除室內區域
+job_improvecellindoor                   清理室內區域
 job_improvecelloutdoor                  維護室外環境
 job_opendoor                            開啟門鎖中
 job_giveuniform                         發放囚犯制服
@@ -1520,7 +1520,7 @@ experience_exercise                     運動
 
 need_name_nothing                       沒事
 need_name_bladder                       膀胱
-need_name_bowels                        腸子
+need_name_bowels                        大腸
 need_name_sleep                         睡眠
 need_name_food                          食物
 need_name_safety                        安全
@@ -1533,7 +1533,7 @@ need_name_environment                   環境
 need_name_privacy                       隱私
 need_name_freedom                       自由
 need_name_clothing                      衣著
-need_name_drugs                         毒藥
+need_name_drugs                         毒癮
 need_name_alcohol                       酒精
 need_name_starving                      飢餓
 need_name_spirituality                  靈性
@@ -1640,7 +1640,7 @@ objective_outgoing                      釋放服滿刑期的囚犯
 objective_outgoing_count                *X 名囚犯已服滿刑期即將釋放
 objective_outgoing_timer                (*X 小時)
 
-objective_visitors                      訪客會見 (早上八點 到 晚上八點)
+objective_visitors                      訪客會見\n(早上八點 到 晚上八點)
 objective_visitors_waiting              *X 個家庭正在等待會見
 objective_visitors_onsite               *X 名訪客共 *Y 組正在監獄內
 
@@ -2008,7 +2008,7 @@ material_none                            無
 material_building                        建築物 (磚塊)
 material_buildingconcrete                建築物 (水泥)
 material_demolish                        拆除剷平
-material_clearindoorarea                 清除室內區域
+material_clearindoorarea                 清理室內區域
 material_demolishwalls                   拆除牆壁
 material_removetunnels                   拆除地道
 material_canceljobs                      取消工作
