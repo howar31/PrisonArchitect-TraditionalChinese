@@ -372,13 +372,13 @@ connectionmenu_done                     完成
 
 buildtoolbar_title                      建造
 buildtoolbar_reports                    監獄報告
-buildtoolbar_bangup                     全體回房
+buildtoolbar_bangup                     全體拘禁
 buildtoolbar_lockdown                   全面封鎖
 buildtoolbar_shakedown                  全面安檢
 buildtoolbar_weaponsfree                自由射擊
 
 buildtoolbar_tooltip_reports			開啟監獄報告書，檢視囚犯、員工、收入、補助計畫等等相關資訊。
-buildtoolbar_tooltip_bangup				將所有 (願意的) 囚犯送回他們的牢房，但如果你把囚犯鎖在牢房太久，他們會非常生氣。
+buildtoolbar_tooltip_bangup				將所有 (願意的) 囚犯押送回他們的牢房，\n但如果你把囚犯鎖在牢房太久，他們會非常生氣。
 buildtoolbar_tooltip_lockdown			立刻上鎖監獄內所有的門。
 buildtoolbar_tooltip_shakedown          下令立即進行全面安檢搜索所有牢房，搜索將會花費一些時間才能完成，同時也會惹惱你的囚犯們。
 buildtoolbar_tooltip_weaponsfree        授權你的武裝警衛使用致命武器。
@@ -2209,7 +2209,7 @@ regime_eat                              用餐
 regime_shower                           洗澡
 regime_yard                             廣場活動
 regime_work                             工作
-regime_lockdown                         全體回房
+regime_lockdown                         全體拘禁
 regime_freetime                         自由活動
 regime_currenttime                      現在時間
 regime_unspecified                      未指定
@@ -2265,7 +2265,7 @@ execution_stage_Dismissed               員工和見證人離場
 execution_stage_FinalReport             最終報告
 
 execution_stagetooltip_start            你已經為這名囚犯安排執行死刑，現在必需要按照官方標準流程進行。
-execution_stagetooltip_lockdown         所有囚犯送回牢房中，監獄現在全面封鎖。
+execution_stagetooltip_lockdown         正在將所有囚犯押送回牢房，監獄現在全面封鎖。
 execution_stagetooltip_testing          最後測試所有設備正常運作，電椅通電電壓在標準負荷範圍內。\n此外，死囚的最終路線已經安排好 - 他必需要能自行走道行刑室。
 execution_stagetooltip_assemble         典獄長和保安隊長前往死囚的牢房，\n而死囚指定的牧師或精神領袖也抵達了監獄，正在牢房內為死囚進行最後禱告。
 execution_stagetooltip_witnesses        死刑見證人抵達監獄並前往行刑室。\n見證人包含了死囚家屬以及受害者家屬。\n\n注意，死刑見證人需要椅子才能坐下。
