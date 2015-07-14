@@ -2297,7 +2297,7 @@ execution_error_NoRoom                  你需要一間行刑室才能執行死�
 
 box_contents                             內容: *X
 stack_contents                           內容: *X x *Y
-mail_contents                            內容: *X 字
+mail_contents                            內容: *X 封信
 mail_opened_from                         來自 *X *F 的信
 mail_closed_from                         寫給 *X 的信
 
