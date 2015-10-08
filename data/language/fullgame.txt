@@ -681,11 +681,11 @@ campaignchapter_epilogue_description    一座歷史悠久的監獄及將要拆�
 
 adviser_name_reporter 					記者
 
-epilogue_newsintro1 					CNDC 今日新聞，關於我們監獄目前狀況的特別報導。
+epilogue_newsintro1 					CDNC 今日新聞，關於我們監獄目前狀況的特別報導。
 epilogue_newsintro2 					惡名昭彰的「Alchemico 攻防戰」距今已經兩年了，當時奪走無數條人命，包括當\n時的執行長查爾斯・華萊士。
 epilogue_newsintro4 					今天，我們將邀請到一流的專家，為我們分析講解，自從那次事件之後有什麼樣的\n改變。
 epilogue_newsintro5 					首先，我們將連線到本州經營最久、即將拆除重建的監獄現場。
-epilogue_newsintro6						現場即時轉播，只在 CNDC 新聞網獨家呈現
+epilogue_newsintro6						現場即時轉播，只在 CDNC 新聞網獨家呈現
 
 epilogue_reporter1						感謝莎拉，這座監獄收容了國家最兇殘的罪犯。
 epilogue_reporter2 						但現在，他的高牆即將要拆除，準備重新改建為一座嶄新的綜合監獄。
@@ -702,7 +702,7 @@ epilogue_reporter10 					相關活動人士極力的想廢除這裡的死刑，�
 epilogue_reporter12 					關於這點我們還在研擬中，我們將會慎重的做出決定。
 
 epilogue_reporterend1 					感謝您，海勒市長，我們將現場交還給主播。
-epilogue_newstransition1 				這裡是 CNDC 新聞網，記者在州立監獄採訪報導。
+epilogue_newstransition1 				這裡是 CDNC 新聞網，記者在州立監獄採訪報導。
 epilogue_newstransition2 				廣告過後，我們將邀請到監獄的心理與復健專家，華特・赫斯特醫生。
 
 epilogue_parole1 						還是沒消息？都過多久了？
@@ -716,7 +716,7 @@ epilogue_parole10 						這真快！
 epilogue_parole11 						嗯？
 epilogue_parole12                       ...
 
-epilogue_outro_1 						歡迎回到 CNDC 新聞網特別報導，在現場的是我們的卡爾文・海勒市長。
+epilogue_outro_1 						歡迎回到 CDNC 新聞網特別報導，在現場的是我們的卡爾文・海勒市長。
 epilogue_outro_2 						另外邀請到的是華特・赫斯特醫生，他被指出在監獄改造計畫上花費了大筆的資金。
 epilogue_outro_2b 						赫斯特醫生，你覺得你成功了嗎？
 epilogue_outro_3						成功？不，整體來說並不算成功。
