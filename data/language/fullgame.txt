@@ -1,0 +1,931 @@
+﻿
+campaigncutscene_tooltip 				(點一下繼續下一章故事)
+campaignchapter_locked                  (未解鎖)
+
+
+# =============================================================================
+# Food / Palermo
+# =============================================================================
+
+campaignchapter_food                    巴勒莫
+
+campaignchapter_food_description        一場猛烈的火災把監獄的廚房和餐廳都燒光了，如果我們\n不趕緊想辦法解決伙食問題，可能會發生全面暴動。\n解決食物危機並重建廚房和餐廳。
+
+adviser_food_fire_1                     我們的另一座設施正面臨潛藏的危機。
+adviser_food_fire_2                     有人在監獄廚房內放火，現在首要任務是先把火撲滅，減少傷亡並防止災情擴大。
+adviser_food_fire_3                     使用工具列上的緊急服務按鈕呼叫消防隊。
+adviser_food_fire_4                     在火勢蔓延到整座監獄之前撲滅他！
+
+objective_food_callfirebrigade          呼叫消防隊
+objective_food_extinguishflames         撲滅火焰
+
+objective_food_callfirebrigade_description 	要呼叫消防隊，請點選工具列上的緊急按鈕，然後點選消防隊員
+objective_food_extinguishflames_description  當選擇消防隊員時，你可以按住 H 來手動瞄準消防水管的方向，將水管對準火源中心。\n\n讓消防隊員盡量靠近火場 - 會更有效率撲滅火勢。
+
+adviser_food_savedon1                   我的老天啊，廢墟之中有一個生還者。
+adviser_food_savedon2					難以置信，是唐・巴勒莫，在所有囚犯中...他就像是老大一樣。
+adviser_food_donintro2					壞消息，之前因為預算拮据，監獄內現在沒有常駐醫師。
+adviser_food_donintro3				 	不過好消息是，我們的醫務室還能使用，現在雇用一些醫生來照顧唐・巴勒莫，\n我們要處理一下火災善後。
+
+adviser_food_afterfire3                 我們得整理這堆廢墟。
+adviser_food_afterfire4                 使用拆除剷平工具把餐廳和廚房的廢墟給拆了，記得要把所有殘骸都清乾淨。
+adviser_food_afterfire6                 在道路旁邊規劃一個垃圾場，工人會把殘骸丟到那邊等垃圾車來收。
+adviser_food_dismissfiremen1			最後，消防隊員已經做完他們的工作，你可以讓他們回家了。
+adviser_food_gamespeed                  拆除廢墟需要一些時間，你可以點時鐘下面的速度按鈕加快遊戲時間。
+
+adviser_food_todolist1					其他詳細細節我把列入你的待辦事項清單。
+adviser_food_todolist2					如果你不知道該怎麼做，將滑鼠指在事項就可以看到進一步的說明。
+
+objective_food_buildmedicalward_doctors 雇用一些醫生到醫務室
+
+objective_food_DismissAllFiremen		解散消防隊員
+objective_food_cleararea                清理火場廢墟
+objective_food_buildgarbagearea         規劃垃圾場
+objective_food_clearcanteen             清理餐廳廢墟
+objective_food_clearkitchen             清理廚房廢墟
+objective_food_hiremoreworkmen			(非必要) 雇用工人加速廢墟拆除
+
+objective_food_dismissallfiremen_description 	解散緊急服務，在螢幕右邊找到對應的圖示，並點選紅色 X 圓圈將他們送回。
+objective_food_cleararea_description 	使用拆除剷平工具來拆除建築，拆除剷平工具在工具列的「地基」類別裡。
+
+adviser_food_familyvisit1				幹的好。
+adviser_food_familyvisit2 				來檢查一下傷亡狀況。
+
+adviser_food_troublesoon1				沒有食物，囚犯們會在幾天內就把牆給拆了。
+adviser_food_troublesoon2 				我們必須在暴動發生前搞定監獄問題。
+adviser_food_troublesoon3 				這是部署介面，從這裡你可以控制並派遣所有警衛。
+adviser_food_troublesoon4 				部署一些警衛到各個牢房和房間內，指派十個警衛，這人數應該足夠應付目前監獄\n的狀況。
+adviser_food_troublesoon5				我還要一些警位在監獄內空地周圍巡邏，之後要在那邊蓋新建築。
+adviser_food_troublesoon6				最後一件事，因為餐廳無法營業，有些裝在箱子內的食物可能壞了，把這些食物丟\n了以免病菌傳染。
+
+objective_food_deployguards				在監獄內部屬十名警衛
+objective_food_deploypatrol				指派兩名警衛在監獄內空地巡邏
+
+objective_food_deployguards_description		要部署警衛，請打開部署介面，然後在區域內點擊來增加崗位數量，一名警衛會被自動指派到該崗位上。
+objective_food_deploypatrol_description		打開部署介面，點選巡邏，然後點擊並拖曳來建立巡邏路線。\n\n再點一次巡邏路線即可指派警衛到該路線巡邏。
+
+objective_food_dumpfood 				丟棄腐壞的食物
+objective_food_dumpfood_description		腐壞的食物應該在監獄東北角的儲藏櫃內。\n\n要丟棄東西，請點選物品然後在選單中選擇「丟棄」。
+
+adviser_food_doncantspeak1				...
+adviser_food_doncantspeak2				呃 .... ...
+
+adviser_food_doninfirmary0              他好像想說什麼。
+adviser_food_doninfirmary1				這到底是哪個他媽的混帳白目幹的？
+adviser_food_doninfirmary2 				沒有人針對你啊，老爸，這是場意外。
+adviser_food_doninfirmary3 				你們兩個給我閉上臭嘴仔細聽好。
+adviser_food_doninfirmary4 				如果被我發現你們兩個是誰放這混帳火，我一定把你的脖子扭斷。
+adviser_food_doninfirmary5 				但我的時間差不多了，我想我會死在這該死的病床上。
+adviser_food_doninfirmary6 				而我們還有家族事業要經營，巴勒莫家族的名號是我們僅存的東西，你們這些廢柴\n要做些值得讓人尊敬的事，懂嗎？
+adviser_food_doninfirmary7				我們知道該怎麼做，老爸。
+adviser_food_donchat13					這事還沒結束，尼克。
+adviser_food_donchat14					你他媽的小心背後啊。
+
+adviser_food_founddrugs1				你不會相信我剛剛聽到的事。
+adviser_food_founddrugs2				我們的工人剛剛在傾倒過期食物的時候，發現了幾包毒品和一些酒藏在箱子裡。
+adviser_food_founddrugs3				我們老早就懷疑是巴勒莫家族的人在走私這些東西進監獄，但我們一直不知道他們\n怎麼做的。
+adviser_food_founddrugs4 				有時候不只是下雨，而且是傾盆大雨。
+
+adviser_food_rebuild1                   我們還有很多工作要做，要專注在廚房和餐廳的重建工作。
+adviser_food_rebuild2                   首先，我們必須要重建廚房，你需要安裝一些設備，然後雇用一些廚師。
+adviser_food_rebuild3					廚房蓋好後，再來蓋餐廳。
+adviser_food_rebuild4					當全部都蓋好之後，廚師就會自動開始為監獄準備餐點。
+adviser_food_rebuild5                   如果你不確定要做什麼的時候，記得看看待辦事項清單，上面有些提示。
+
+adviser_food_fightoutro1  				好了，這下看來巴勒莫家族已經沒剩幾個人了。
+
+adviser_food_sprinklerintro1 			我們有些棘手的毒品問題要解決，但現在還沒空處理這些事。
+adviser_food_sprinklerintro2 			我們已經把廚房和餐廳都搞定了，廚師們會開始幫大家準備餐點，這應該可以讓事\n情緩和一些。
+adviser_food_sprinklers1                我覺得這場火應該是有人故意縱火，我們絕對不想要這種事再發生第二次。
+adviser_food_sprinklers2 				在新的廚房和餐廳裡安裝自動灑水器系統，並將系統連上水管。
+
+adviser_food_explainneeds1 				所有的囚犯都有個人需求，這些需求滿足度會直接影響囚犯的行為表現，現在所有\n囚犯都餓扁了，他們正在大吵大鬧。
+adviser_food_explainneeds2 				食物是他們最需要的東西，如果無視這個需求後果可能不堪設想，失敗的餐點管理\n很容易造成監獄暴動。
+adviser_food_explainneeds3 				你可以在右下角監獄報告上的需求頁面看到囚犯的個人需求。
+adviser_food_explainneeds4				這份報告顯示所有囚犯的整體需求，紅色代表該項需求很多人不滿意。
+adviser_food_explainneeds5 				如同你所預料的一樣，食物幾乎是全紅的，除此之外囚犯們也很無聊 (休閒) ，還\n有環境和衣著需求也顯示整個監獄目前狀況很糟。
+adviser_food_explainneeds6				身為駐監建築師，這將由你來決定哪些需求要先處理，例如你可以在牢房裡面安裝\n電視來避免囚犯無聊，再雇用一些清潔工來整理環境。
+adviser_food_explainneeds7				或是你也可以無視囚犯的需求，完全依靠武力來壓制囚犯。
+adviser_food_explainneeds8 				接下來就讓你自己決定。
+
+objective_food_needs 					(非必要) 滿足囚犯的需求
+objective_food_handlefoodneed 			(非必要) 解決囚犯的食物問題
+objective_food_handleboredomneed		(非必要) 解決囚犯的休閒問題
+objective_food_handleenvironmentneed	(非必要) 解決囚犯的環境問題
+
+objective_food_needs_description 					你可以點選監獄報告 (螢幕右下角) 察看所有囚犯的整體需求狀況。\n你也可以點選單一個囚犯看看他個人的需求。\n\n需求是不可能永遠滿足的 - 這是個無止境的戰爭。
+objective_food_handlefoodneed_description 			我們的廚師會為大家準備餐點，因此在下個用餐時間應該就可以餵飽所有囚犯。
+objective_food_handleboredomneed_description 		在每個囚犯的個人監獄內安裝電視，可以很有效的解決休閒問題，或你可以建造一個公共休息室然後放一些電視和撞球桌在裡面。\n\n你也可以在公共空間，例如餐廳裡面放一些電視。
+objective_food_handleenvironmentneed_description 	雇用一些清潔工，他們會慢慢的把監獄環境打掃乾淨。
+
+adviser_food_needssuccess1 				你在處理囚犯需求的努力上十分令人欽佩，幹的好。
+adviser_food_needssuccess2 				你大概有注意到，囚犯抱怨剩下最大的問題是乾淨的囚衣。
+adviser_food_needssuccess3 				如果你也想要解決這個問題，你需要蓋一間洗衣間，慢慢的提供囚犯乾淨的衣服。
+adviser_food_needssuccess4 				蓋一間洗衣間，然後雇用更多清潔工來處理囚犯的衣著問題吧。
+
+objective_food_laundry 					(非必要) 乾淨的衣著
+objective_food_buildlaundry 			(非必要) 蓋一間洗衣間
+objective_food_hirejanitors             (非必要) 雇用足夠的清潔工來洗衣間工作
+objective_food_handleclothingneed 		(非必要) 滿足囚犯的衣著需求
+
+objective_food_buildkitchen             蓋一間廚房 (約 12 x 12 格)
+objective_food_buildkitchencookers      安裝至少四台瓦斯爐
+objective_food_buildkitchenfridges      安裝至少四台冰箱
+objective_food_buildkitchensink         安裝一個水槽
+objective_food_buildkitchenbin	 		在廚房放置一個垃圾桶
+objective_food_buildkitchenwatermains 	將水槽連接到水管
+objective_food_buildkitchenfloor 		(非必要) 在廚房鋪上更好的地板材質
+
+objective_food_buildkitchen_description		你需要先建造地基。
+objective_food_buildcanteen_description		你需要先建造地基。
+
+objective_Food_HireChefs				雇用至少八名廚師
+objective_food_CookMeals				(自動) 為所有囚犯準備餐點
+
+objective_food_buildcanteen             蓋一間餐廳 (約 20 x 20 格)
+objective_food_buildservingtables       安裝兩張自助餐桌
+objective_food_buildcanteentables       安裝至少六張桌子
+objective_food_buildcanteenchairs       每張桌子需要兩張長椅
+objective_food_buildcanteenbin	 		在餐廳放置一個垃圾桶
+objective_food_buildcanteenfloor 		(非必要) 在餐廳鋪上更好的地板材質
+
+
+objective_food_buildsprinklers          安裝新的灑水器系統
+objective_food_buildsprinklers1         在廚房安裝一些灑水器
+objective_food_buildsprinklers2         在餐廳安裝一些灑水器
+objective_food_connectwater             將廚房的灑水器連上水管
+objective_food_connectwater2			將餐廳的灑水器連上水管
+objective_food_feedprisoners            餵飽所有的囚犯以完成一次成功的晚餐
+
+objective_food_buildkitchenwatermains_description   大水管使用高水壓來輸送大量的水，小水管則是用來連接各個需要用水的設備。\n\n在「設施」介面可以在建築內設置大水管，然後再用小水管將需要用水的設備連接上大水管。
+objective_food_connectwater_description             大水管使用高水壓來輸送大量的水，小水管則是用來連接各個需要用水的設備。\n\n在「設施」介面可以在建築內設置大水管，然後再用小水管將需要用水的設備連接上大水管。
+objective_food_connectwater2_description            大水管使用高水壓來輸送大量的水，小水管則是用來連接各個需要用水的設備。\n\n在「設施」介面可以在建築內設置大水管，然後再用小水管將需要用水的設備連接上大水管。
+
+campaigncutscene_foodinfirmary			醫務室
+campaigncutscene_foodfamily             家族
+campaigncutscene_foodfeud               是仇
+campaigncutscene_foodregret				遺憾
+campaigncutscene_foodsuccession 		繼承
+
+campaigncutscene_foodfamily_description		巴勒莫家族曾經掌管美國東岸所有的毒品事業，探索唐・巴勒莫和他孩子們的背景故事。
+
+adviser_name_thedon                     唐・巴勒莫
+adviser_name_thedonangry                唐・巴勒莫
+adviser_name_nico                       尼克・塔莫瑞提
+adviser_name_nicoshower					尼克・塔莫瑞提
+adviser_name_nicosuited					尼克・塔莫瑞提
+adviser_name_sonny                      桑尼・巴勒莫 
+adviser_name_sonnysuited				桑尼・巴勒莫
+adviser_name_sonnystrangled				桑尼・巴勒莫
+adviser_name_anthonysuited				安東尼・巴勒莫
+adviser_name_wiggins					威金斯
+adviser_name_nicoinfirmary				尼克・塔莫瑞提
+adviser_name_vitalia					維他利亞・巴勒莫
+
+cutscene_foodfamily_palermo01			唐・維克多・巴勒莫，是東岸最令人畏懼的幫派家族的老大。
+cutscene_foodfamily_palermo1			十幾年來，巴勒莫家族一直在躲避 FBI 聯邦調查局的追緝。
+cutscene_foodfamily_palermo02			安東尼・巴勒莫，唐的長子，也是家族繼承人，負責經營家族的大小事務。
+cutscene_foodfamily_palermo03			尼克・塔莫瑞提 原本不是家族的正式成員，但後來他娶了唐的獨女維他利亞之後，也加入家族\n一同經營事業。
+cutscene_foodfamily_palermo04			而 桑尼・巴勒莫，唐的第二個兒子，也是最小的兒子，他的脾氣跟牛一樣壞，但\n智力大概只有牛的一半吧。
+
+cutscene_foodfamily_palermo2 			他們的家族企業專門經營緬因州和佛羅里達州的毒品交易。
+cutscene_foodfamily_palermo3			一直到安東尼偷吃時被當場發現，抓姦在床。
+cutscene_foodfamily_palermo3b           然後被一個吃醋的丈夫射死。
+cutscene_foodfamily_palermo4			對家族來說更不幸的是，警方在現場發現安東尼的包包裡面找到 12 公斤\n未切割的古柯鹼。
+cutscene_foodfamily_palermo5			而所有證據都指向家族。
+cutscene_foodfamily_palermo6			一夜之間，巴勒莫家族辛苦打造的一切全部化為泡影，FBI 掌握了所有證據，\n足以把整個家族關進監獄。
+cutscene_foodfamily_palermo7			除了維他利亞，唐的唯一女兒，也是唯一沒有被關起來的家族成員。
+cutscene_foodfamily_palermo8			我們對她瞭解不多，我們只知道她總是避免接觸家族事業。
+cutscene_foodfamily_palermo9 			但監獄外一定有人把這些毒品偷渡進來。
+
+adviser_food_findalldrugs1				食物問題解決後，囚犯們的情緒一定好多了。
+
+adviser_food_findalldrugs2				合理猜測，巴勒莫家族成員一定有在監獄內向其他囚犯販售毒品。
+adviser_food_findalldrugs3				警衛們告訴我，他們看到很多囚犯在那場大火之後出現了毒品戒斷症狀。
+adviser_food_findalldrugs4				我要你對每個囚犯搜身並徹底搜查每間牢房，我敢打賭我們可以在監獄內找到很多\n巴勒莫的毒品。
+
+objective_food_findalldrugs					找出監獄內所有毒品
+objective_food_findalldrugs_description 	要搜查一間牢房，點選那監牢房的囚犯，然後點選「搜查牢房」，或是用工具列上的「全面安檢」按鈕來進行全面搜查。
+
+objective_food_hiremoreguards 			(非必要) 雇用更多警衛提高搜查效率。
+
+adviser_food_drugsfound1				往好處想，事情可能沒那麼糟糕，雖然確定有毒品和酒精依賴的問題。
+adviser_food_drugsfound2				我們可以幫助這些人，這是制止他們負面行為和解決他們症狀的唯一方法。
+adviser_food_drugsfound2b 				請在醫務室開一堂毒癮藥物治療課程，我們的醫生會給予化學替代品，協助他們改\n善毒品上癮症狀。
+adviser_food_drugsfound3				至於酒精上癮的沒有化學替代品可用，因此我建議開一堂集體治療課程。
+adviser_food_drugsfound4				你要蓋一間新的公共休息室來進行這堂課。
+adviser_food_drugsfound5				開始新的課程，請到右下角的「監獄報告」內選擇「教化課程」頁面。
+
+objective_food_drugtreatment			開一堂毒癮藥物治療課程
+objective_food_cureaddictions			(非必要) 開始治療囚犯的毒癮
+objective_food_alcoholprogram			開一堂集體戒酒治療課程
+objective_Food_HelpAlcoholics			(非必要) 開始協助囚犯戒酒
+objective_food_buildcommonroom 			蓋一間公共休息室
+objective_food_buildcommonroomchairs	提供八張椅子給課程進行用
+
+objective_food_drugtreatment_description 	點選螢幕右下角的「監獄報告」，然後點選「教化課程」頁面，課程叫做「毒癮藥物治療」，在醫務室進行課程。\n\n你需要在日程表內安排至少兩小時的工作時間，囚犯才有時間參與課程。
+objective_food_alcoholprogram_description 	點選螢幕右下角的「監獄報告」，然後點選「教化課程」頁面。\n\n你需要在日程表內安排至少兩小時的工作時間，囚犯才有時間參與課程。
+
+cutscene_food_feudintro1 				沐浴間出事了，有人死在那裡。
+cutscene_food_feudintro2 				欸事實上，有兩個人死在那裡，不幸中的大幸，這裡有安裝監視攝影機。
+cutscene_food_feudintro3 				你有空的時候，點一下沐浴間的拍立得照片，看一下發生了什麼事。
+
+objective_food_triggerfightscene		當你準備好時，點選沐浴間的拍立得\n照片以繼續劇情。
+objective_food_triggerfightscene_description 	沐浴間在監獄的西北角。
+
+cutscene_food_feud1b                    只有他一個人，完美。
+cutscene_food_feud1                     你終於來了。
+cutscene_food_feud2                     閉嘴，我實在搞不懂我那蠢妹妹到底看上你哪一點。
+cutscene_food_feud2b 					這是她的點子？把老爸幹掉？
+cutscene_food_feud3                     你這死肥宅竟敢這樣說？我不是故意要讓他受傷，我愛他就像是我自己的爸爸一樣。
+cutscene_food_feud3b 					我實在受夠了看這整個家族因為你的愚蠢而瓦解。
+cutscene_food_feud4                     這火本來是要幹掉你的。
+cutscene_food_feud5                     那現在就讓我來好好感謝你。
+cutscene_food_feud6                     不要說的好像自己是聖人一樣，我們都知道你早就想要幹掉我。
+cutscene_food_feud7                     是是是，你總是那麼的聰明，尼克，看看你現在的樣子，別擔心，事情很快就會結束。
+cutscene_food_feud8                     我告訴過你，小心背後。
+cutscene_food_feud8b                    呃啊啊啊啊啊!!!!!.....
+cutscene_food_feud8c                    努啊啊啊啊啊!!!!
+cutscene_food_feud8d                    你認識弗朗基嗎？他對於鋼琴線這方面還挺有天賦的。
+cutscene_food_feud8e                    好吧坦白說，等他完事以後，大家都會認為這是一起自殺事件。
+cutscene_food_feud9                     這事還沒結束，尼克。
+cutscene_food_feud9b                    你一定在跟我開玩笑吧。
+
+cutscene_food_successionintro			非常好，我們讓這監獄煥然一新了，我相信監獄現在終於恢復正常了。
+cutscene_food_successionintro2 			你可以留下來繼續改進這座監獄的設施，或是我們可以到下一座監獄去看看。
+cutscene_food_successionintro3 			當你準備好時，點一下醫務室的拍立得照片。
+
+objective_food_runending 				當你準備好時，點選醫務室的拍立得\n照片以繼續劇情。
+objective_food_runending_description	醫務室在監獄的西南角。
+
+cutscene_food_succession1				維他利亞！ 
+cutscene_food_succession1b				...?
+cutscene_food_succession2				甜心寶貝！
+cutscene_food_succession3				十分抱歉我搞砸了。
+cutscene_food_succession4				噓，安靜。
+cutscene_food_succession5				他們說老爸撐不過這週。
+cutscene_food_succession6				我知道，我是來說再見的。
+cutscene_food_succession7				你知道，我們現在可以離開這裡，就你跟我，我受夠了這生活，他剝奪了我的一切。
+cutscene_food_succession8				我很想這麼做。
+cutscene_food_succession9				但我不能這麼做，我是巴勒莫家族的一份子，尼克。
+cutscene_food_succession10				而且老爸走了之後，如果由你這外人坐上他的位子，我們的敵人一定會趁機幹掉我\n們整個家族。
+cutscene_food_succession11 				我不能讓這種事發生，我要讓他們知道還有一個巴勒莫仍在掌管大局。
+cutscene_food_succession12				什麼？你是特地來打擊我的嗎？我們一起經歷過這麼多事都不算了嗎？
+cutscene_food_succession13				尼克，尼克，尼克，你實在是太天真了。
+cutscene_food_succession14 				不，親愛的，我是來跟你離婚的。
+cutscene_food_succession15				啥鬼？你在開玩笑嗎？如果沒有家族幫我撐腰，我在這裡面就死定了。
+cutscene_food_succession16				我知道，親愛的，但這已經不關我的事了。
+cutscene_food_succession17				老爸，祝你到一個更好的世界。
+cutscene_food_succession18				再見了，尼克。
+
+
+# =============================================================================
+# Riot 
+# =============================================================================
+
+campaignchapter_riot                    G.A.B.O.S
+campaignchapter_riot_description		Alchemico州立監獄發生大暴動，盡快前往並鎮壓現場。
+
+campaigncutscene_riotintro              最新消息
+
+adviser_riot_newsintro_01				最新消息！
+adviser_riot_newsintro_02				Alchemico 州立監獄發生大暴動 - 所有員工和警衛已經撤離，等待軍方協助。
+adviser_riot_newsintro_1				但有許多人目前仍下落不明，其中包含了公司執行長查爾斯・華萊士。
+adviser_riot_newsintro_2				幾位知名法官被逮捕不久後，隨即就發生了暴動...
+adviser_riot_newsintro_3				...這些法官據說因私下被買通，讓一些囚犯的刑期縮短。
+adviser_riot_newsintro_4				此外更火上加油的消息，有來源指出最近幾起囂張的兇殺案震驚了黑社會...
+adviser_riot_newsintro_5				...其中包括上個月試圖刺殺黑社會老大維克多・巴勒莫的案件。
+adviser_riot_newsintro_6				執行長查爾斯・華萊士的副手最近才接手這個職位，努力的希望能恢復秩序。
+adviser_riot_newsintro_7				缺乏經驗的新手面對這場大危機，是否能妥善處理，讓我們繼續看下去。
+adviser_riot_newsintro_8                目前在服無期徒刑的重刑犯道格拉斯・本尼迪克特，具稱是這次暴力事件的主謀。
+
+adviser_riot_newsintroheller_1 			卡爾文・海勒市長在幾分鐘前發表了這份聲明。
+adviser_riot_newsintroheller_2 			對於那些質疑我們懲罰教化政策的人們，這應該是個很好的警示。
+adviser_riot_newsintroheller_3 			這些人都吃的好、住的好，而且還擁有一份有薪的工作。
+adviser_riot_newsintroheller_4 			納稅人繳稅給他們舒適，而這就是他們回報納稅人的方式。
+
+campaigncutscene_riothostages			人質
+adviser_name_riotceo					執行長
+adviser_name_riotbenedict 				本尼迪克特
+
+adviser_riot_hostages1					聽好，你們的執行長現在在我們手上。
+adviser_riot_hostages1b 				唔 ... ...
+adviser_riot_hostages2 					所以接下來照我說的去做，我要什麼，你給什麼。
+adviser_riot_hostages3					有任何問題，派個人進來講，但要是我聞到任何警察的味道，我就把子彈塞進他的\n腦袋裡。
+adviser_riot_hostages4 					我們要一輛沒有被追蹤的車子，黑色車窗，加滿油，一小時內送來，我會再聯絡。
+adviser_riot_hostages5 					現在，我們在哪？
+adviser_riot_hostages5b					你在這間辦公室幹什麼？
+adviser_riot_hostages6					我發誓，我什麼都不知道啊。
+adviser_riot_hostages7					我看我自己看多了，我很清楚一個人是不是在犯罪。
+adviser_riot_hostages8					你到底在藏什麼？
+adviser_riot_hostages9					我應該待在這種地方，但那些孩子... 對任何人有好處嗎？會給他更多時間嗎？
+adviser_riot_hostages10					你知道一些事情，告訴我，才能活著離開這裡。
+
+adviser_riot_hostageheller1 			這完全無法接受，我們需要監視餐廳內的狀況，才知道發生了什麼事。
+adviser_riot_hostageheller2 			在餐廳北方有一個小小的安全中心，佔領並奪回來。
+adviser_riot_hostageheller3 			部署一些警衛在裡面操作閉路監視器，這樣我們就可以看到牢房區的狀況。
+
+objective_Riot_MaxSecCameras			奪回安全中心
+
+campaigncutscene_riotroulette			輪盤賭博
+
+adviser_riot_rouletteintro1             我們派警衛在安全中心了，從閉路監視系統可以看到現場畫面。
+adviser_riot_rouletteintro2             讓我們看看人質的狀況。
+adviser_riot_click 						<點選>
+adviser_riot_roulette1					老大，這是你離開這裡的最後機會了，玩過兩顆子彈的輪盤賭博嗎？
+adviser_riot_roulette2 					兩顆子彈，四個空包彈。
+adviser_riot_roulette2b 				以前跟長耳大野兔玩過這遊戲，後來我們把牠們的頭給轟了。
+adviser_riot_roulette3 					你也會跟牠們一樣。
+adviser_riot_roulette4 					讓我們問個簡單的問題，你在辦公室是負責什麼的？
+adviser_riot_roulette5 					我發誓，我什麼都不知道。
+adviser_riot_roulette5b 				喔是嗎。
+adviser_riot_roulette6 					好吧，誰先來？你？我？還是這傢伙？
+adviser_riot_roulette7					你知道什麼嗎，長耳大野兔。
+adviser_riot_roulette8 					那些檔案裡面有什麼？
+adviser_riot_roulette9 					我發誓！我真的不知道...
+adviser_riot_roulette10 				你的好運快用完了，裡面還有一顆子彈，我知道我看到了什麼。
+adviser_riot_roulette11b 				我簡直不敢相信我自己的眼睛。
+adviser_riot_roulette11c 				大公司老闆，自己在監獄裡面，不知道在幹什麼看起來十分有罪的事情。
+adviser_riot_roulette11d 				我想除了我的資料以外，那些檔案應該還有其他東西。
+adviser_riot_roulette11					拜託... 拜託別。
+adviser_riot_roulette11e 				機會越來越少了，華萊士。
+adviser_riot_roulette12 				讓我告訴你，我可以讓你輕鬆一些。
+adviser_riot_roulette12b	 			夠了，廢話說到這裡。
+adviser_riot_roulette13 				輪到你了，混帳，除非你告訴我一些我想知道的東西。
+adviser_riot_roulette14 				我不能，拜託。
+adviser_riot_roulette15 				好吧！拜託！拜託。不要開槍，那些是錢，都是錢。
+adviser_riot_roulette16 				就這樣？
+adviser_riot_roulette17 				你們有些利用價值，你們待在這越久，對我們的好處就越多，我們沒照規矩做事。
+adviser_riot_roulette17b				那些檔案就是證據。
+adviser_riot_roulette18 				所以我們到底為何有價值？你把我們留在這裡可以得到什麼好處？
+adviser_riot_roulette19 				每年七萬三千元美金。
+adviser_riot_roulette20					每個人？你他媽混帳，是時候該讓你償還這些東西了。
+
+campaigncutscene_riotassault 			攻堅
+
+adviser_riot_assault01					就是這樣，是時候該解決這件事了。
+adviser_riot_assault02 					所有人都就位。
+adviser_riot_assault03					我現在就要我的車子，華萊士要跟我們一起走，如果被我發現我被跟蹤，你們就準\n備在高速公路上撿他的屍體吧。
+adviser_riot_assault2 					好了，大個子，你跟我們一起走，這樣他們才不會冒險幹蠢事。
+adviser_riot_assault3 					我們沒有人能離開這裡的，他們要的不是你。
+adviser_riot_assault4 					你在說什麼？
+adviser_riot_assault5					我這樣做是為了錢，但他這樣做是為了政治利益，刑期越長，他的選票就越多。
+adviser_riot_assault6					你他媽的是在說誰？
+adviser_riot_assault7					海勒市長，這一切都是他的陰謀，我只是順水推舟而已。
+adviser_riot_assault7b 					那些檔案就是證據，足以摧毀他整個政治生涯。
+adviser_riot_assault8					你別想騙我。
+adviser_riot_assault9 					搞啥鬼...
+adviser_riot_assault9b					他們攻進來了，快準備！
+adviser_riot_assault10					我他媽的警告過你！
+
+# Riot Objectives and help text
+
+adviser_name_negotiator 				談判代表
+
+adviser_riot_negotiator1 				這邊完全失控了，根本沒有人指揮。
+adviser_riot_negotiator2 				我們有很多傷亡，剩下的警衛已經從暴動牢房區撤出到外圍了。
+adviser_riot_negotiator3 				快想個辦法看該怎麼做，在事情無法收拾之前控制場面。
+adviser_riot_negotiator4 				鎮暴警察應該在幾分鐘內抵達現場。
+
+adviser_riot_firstreinforcements1 		第一批應變小組已經抵達現場。
+adviser_riot_firstreinforcements2 	 	這些是鎮暴警察，他們有重型武裝，指揮這些鎮暴警察把監獄側翼建築奪回來。
+adviser_riot_firstreinforcements3 		同時附近州立醫院的醫護人員也抵達現場了。
+adviser_riot_firstreinforcements4 		我建議指揮醫護人員支援鎮暴警察攻堅，以便提供緊急醫療照護。
+
+objective_Riot_StopTheRiot 				鎮壓暴動
+objective_Riot_StopTheRiot_description  沒有人負責指揮，你必須想個辦法解決問題。
+
+adviser_riot_helleradvice1				現在跟我講話的應該是執行長的副手吧。
+adviser_riot_helleradvice2 				我明白這是一個非常時期，我們正在接受嚴格的考驗，請放心，我會全力支持你，\n你可以調度使用所有的資源。
+adviser_riot_deployguards1				我們取得了立足點，奪回了部分的監獄，而目前的傷亡狀況還在可接受範圍內。
+adviser_riot_deployguards2				但在你繼續推進奪回其他建築之前，你需要鞏固目前奪回的側翼建築。
+adviser_riot_deployguards3				雇用一些警衛，並在部署介面指派他們駐守已奪回的建築區域，他們會鞏固已奪回\n的側翼建築。
+adviser_riot_deployguards4 				幫你安頓好這邊之後，再繼續推進奪回其他區域，鎮壓那些傢伙，他們不可理喻無\n藥可救，也沒有談判的空間。
+adviser_riot_deployguards5 				我正在授權武裝應變小組儘速解決這件事。
+
+adviser_riot_infirmary1 				整座監獄到處都是傷患，而且會越來越多，你不能讓他們躺在那流血等死。
+adviser_riot_infirmary2 				在監獄裡找個地方蓋間醫務室，然後雇用醫生來照顧傷患。
+adviser_riot_infirmary3 				此外還有一些屍體，看在個人尊嚴份上，我們要蓋一間太平間來安置他們。
+adviser_riot_infirmary4					你需要雇用工人來建造設施，記得保護他們的安全。
+
+objective_Riot_ResecureWings 			雇用警衛並將他們部署到已奪回的區域
+objective_riot_medicalneeds				(非必要) 滿足囚犯的醫療需求
+objective_Riot_Infirmary				(非必要) 蓋一間醫務室照料傷患
+objective_Riot_Morgue 					(非必要) 蓋一間太平間集中死者
+objective_Riot_SecureGenPop				奪回普通犯區域 (中央)
+objective_Riot_SecureSpecialWing		奪回特殊區域 (西側)
+objective_Riot_SecureMaxSec				奪回重刑犯區域 (南側)
+objective_riot_putoutfires				控制火勢
+
+adviser_riot_secondreinforcements1		更多的鎮暴警察抵達現場。
+
+adviser_riot_armedreinforcements1		市長從附近的警局調度了一些武裝警衛過來。
+adviser_riot_armedreinforcements2		小心這些傢伙，如果你放手讓他們到處跑，最後可能會血洗整座監獄。
+adviser_riot_armedreinforcements3		不過另一方面來說，囚犯們看到這些傢伙時可能會選擇投降。
+
+adviser_riot_reinforcementsunlocked1 	主力增援部隊抵達現場。
+adviser_riot_reinforcementsunlocked2 	你現在可以在工具列上的緊急按鈕，呼叫需要的鎮暴警察和醫護人員小隊。
+
+adviser_riot_cleanup1                   監獄目前已經獲得控制，暴動份子都已經制服了，整個局面差點就要變的更糟。
+adviser_riot_cleanup2                   有一堆東西等著我們去善後，如果你有時間的話，我會感謝你的幫忙。
+adviser_riot_cleanup2b 					我們沒有任何建築承包商，所以第一件事就是要先雇用一些工人把這地方修復。
+adviser_riot_cleanup3                   我一直覺得這邊的安全太過鬆散，很長的一段時間以來這些囚犯都過的太爽，自由\n活動時間太長了，我想假期就到今天為止。
+adviser_riot_cleanup4                   我希望你建造一間新的軍械庫，然後在監獄內的重點位置部署武裝警衛，武裝警衛\n在現場就能壓制這些囚犯，囚犯想鬧事之前應該會三思。
+adviser_riot_cleanup5                   我也通過了防護裝甲的預算，讓所有警衛都能配發一件以保護自己。
+adviser_riot_cleanup6                   讓我們繼續吧，這些囚犯需要更多紀律，維持生活秩序，我建議讓囚犯們自己清理\n自己搞出來的爛攤子。
+adviser_riot_cleanup7                   啟動監獄勞動計畫，讓囚犯自己打掃監獄和盥洗衣物。
+adviser_riot_cleanup7b                  你可以藉由工具列上的後勤按鈕指派囚犯工作，滑鼠指在待辦事項上可以看到更多\n幫助訊息。
+adviser_riot_cleanup8                   還有一些要求，有很多囚犯需要懲罰，建造一些禁閉室。
+adviser_riot_cleanup8b                  警衛會把需要關禁閉的囚犯帶進去，禁閉讓囚犯有時間好好反省他們做錯的事，並\n提醒他們在這裡誰才是老大。
+adviser_riot_cleanup9                   還有別忘了那些跟我們一起撐過這次考驗的我們的員工們，他們都累壞了。
+adviser_riot_cleanup9b 					蓋一間員工休息室讓他們可以休息。
+adviser_riot_cleanup10                  最後我們要把這些東西控制在預算內，確保銀行餘款和資金流動都是正的。
+adviser_riot_cleanup10b 				關於環境打嫂、清潔工作、洗衣等等事項，囚犯勞動會比外聘員工還要省一些費用。
+adviser_riot_cleanup11                  還有很多事情要做，我們很感謝你的幫忙。
+adviser_riot_cleanup12                  當你一切搞定準備好要離開時，請點選大門口的拍立得相片。
+
+adviser_riot_cleanup13 					幹的好，我想這座監獄的安全機制現在看起來堅固多了。
+
+objective_riot_solitary 				(非必要) 建造禁閉室以處罰暴動囚犯
+objective_riot_armoury 					(非必要) 實施新的安全措施
+objective_riot_armoury_research			在制度介面解鎖軍械庫
+objective_riot_armoury_build 			建造一間軍械庫 (記得蓋在安全的地方)
+objective_riot_armoury_deploy			在監獄內部署武裝警衛
+objective_riot_armoury_armour 			為所有保安人員解鎖防護裝甲
+objective_riot_armoury_tazers 			為武裝警衛解鎖電擊槍
+objective_riot_staffroom 				(非必要) 建造一間員工休息室讓你疲累的員工休息
+objective_riot_balancebooks 			(非必要) 平衡收支
+objective_riot_balancebooks_balance 	保持銀行餘額為正
+objective_riot_balancebooks_cashflow 	保持資金流動為正
+objective_riot_prisonerwork				(非必要) 啟動懲罰性的監獄勞動計畫
+
+objective_riot_cleaningcupboard			建造清潔工具間
+objective_riot_laundry					建造洗衣間
+objective_riot_inmatesincleaning 		指派囚犯進行環境清潔
+objective_riot_inmatesinlaundry			指派囚犯進行洗衣
+objective_riot_cleanprison 				整理監獄環境
+objective_riot_providelaundry			提供乾淨衣物
+
+objective_riot_armoury_research_description		監獄制度按鈕就在待辦事項清單上方，點選然後選擇「軍械庫」 - 你的保安隊長會負責其他公文處理。
+objective_riot_armoury_deploy_description       部署武裝警衛，請到部署介面然後選擇「武裝警衛」，點選並拖曳來建立巡邏路線，然後再點一次巡邏路線來指派警衛巡邏。
+objective_riot_armoury_guardtazers_description  打開監獄報告內的教化課程頁面 - 你可以看到「警衛電擊槍使用認證」課程。\n\n警衛必須通過這個訓練課程才能配戴電擊槍，你需要蓋一間教室來進行這項訓練。
+objective_riot_prisonerwork_description         指派囚犯進行工作，首先到「後勤」介面然後點選「監獄勞動」，在綠色房間內點選可以指派工作。\n\n你還需要安排時間讓囚犯工作，打開監獄報告內的日程表，安排一些「工作」時段，這個時段內囚犯會在監獄內找工作來做。
+
+objective_Riot_PlayerExitsMap			當你準備好時，點選大門口的拍立得\n照片以繼續劇情。
+
+
+# =============================================================================
+# Conviction
+# =============================================================================
+
+campaigncutscene_convictionheist        搶劫
+campaigncutscene_convictionmorgan       摩根
+campaigncutscene_convictionvisitation   探訪
+campaigncutscene_convictionsuicide      自殺
+
+campaignchapter_conviction              定罪
+campaignchapter_conviction_description  我們有一名囚犯目前在自殺保護監管中，亨利・摩根，他\n是本尼迪克特的犯罪同夥，可能會被判處十三個月到五年\n的刑期，請協助我們收容這個人。
+
+adviser_name_benedictarmed              本尼迪克特
+adviser_name_morgan                     亨利・摩根
+adviser_name_morganarmed				亨利・摩根
+adviser_name_morganhappy                亨利・摩根
+adviser_name_senator                    華特・赫斯特 參議員
+adviser_name_detective                  警探
+adviser_name_kerry 						凱利・摩根 
+adviser_name_hurst 						華特・赫斯特 醫生
+adviser_name_keane 						基恩 警官
+
+adviser_conviction_heist1               去拿錢，小子。
+adviser_conviction_heist2               立刻放下你的武器！
+adviser_conviction_heist2b				啊勒，挖靠！
+adviser_conviction_heist3               開槍，該死的！
+adviser_conviction_heist4               你他媽的在等什麼，快開槍啊白目！
+adviser_conviction_heist6               王八混帳！
+adviser_conviction_heist7               別開槍！別開槍！
+adviser_conviction_heist8               手舉起來，混帳東西！
+adviser_conviction_heist9               照我說的做，懂？
+adviser_conviction_heist10              幹，幹，幹！
+adviser_conviction_heist11              別開槍！別開槍！！
+
+conviction_intro_1                      經過上次 Alchemico 州立監獄的悲劇之後，我們被進行嚴格的政治審查。
+conviction_intro_2                      在新的執行長上任之前，我希望你能代為管理。
+conviction_intro_3                      這座監獄最近連續發生好幾起自殺案件，雖然原因其實很明顯，但我們有其他更重\n要的問題要處理。
+conviction_intro_4                      上面決定要送一大批囚犯到我們這，第一批在明天早上就會抵達，但我們現在還沒\n有足夠的空間收容他們。
+conviction_intro_5                      我們想請你建造一棟新的牢房區來收容這些新進囚犯。
+conviction_intro_5b 					我準備好了一些關於新牢房區的設計，這些新牢房應該足以應付新進的囚犯，此外\n設計中也包含了獨立的淋浴設施。
+conviction_intro_5c 					要不要按照這個設計來建造，或是你有自己的想法，這將交由你來決定。
+conviction_intro_6                      我的工作是解決囚犯福利的問題，你先把新牢房區蓋好，我們再來討論這個問題。
+
+unused_conviction_intro_4                      我們有一名囚犯目前在自殺保護監管中，亨利・摩根，本尼迪克特的犯罪同夥，可\n能會被判處十三個月到五年的刑期，請協助我們收容這個人。
+unused_conviction_intro_7						我想去跟他談談，但我們必須先阻止自殺事件再次發生。
+
+conviction_workintro1                   我們一直都把這些人當垃圾對待，該稍微改變一下了。
+conviction_workintro2                   前任的執行長從來不相信所謂的囚犯教化改造，但以我的角度來看，我們必需要讓\n這些人對未來感到希望。
+conviction_workintro3                   我們必須要教他們一些技能，好讓他們在獲釋之後得以在社會上生存 - 例如有用的職業技能、或是一些基本教育。
+conviction_workintro4                   我們應該展開工作學徒的課程，教他們一些真正有用的技能，讓他們至少有個可以\n期盼的未來。
+
+
+conviction_hurst1 						這座監獄脫節的程度實在令人震驚，人們幾乎喪失了所有的人性。
+conviction_hurst2 						他們看起來十分缺乏同情與尊重。
+conviction_hurst3 						他們不該得到這樣的待遇。
+conviction_hurst4 						真的，隊長，這不是一個待人之道，他們幾乎喪失了所有的人性。
+conviction_hurst4b 						他們為什麼要遵守我們的規則？這樣對待他們，只會得到極度不滿的反應。
+conviction_hurst4c						我們需要教室、戒毒課程、工作坊等等，好讓他們能重拾自信。
+conviction_hurst6 						你誤會我了，醫生，他們根本就不是人，你自己看看。
+conviction_hurst6b 						摩根，醒醒！
+conviction_hurst7 						你有一個訪客。
+conviction_hurst8 						幫助他們？我看大概跟教猴子彈琴一樣難吧。
+
+conviction_hurst10 						孩子，你叫什麼名字？
+conviction_hurst10b                     他問你問題。
+conviction_hurst11 						先生，我叫亨利。
+conviction_hurst12 						你先冷靜下來，亨利，來把這穿上。
+conviction_hurst13 						先生，床上有蝨子一直在咬我，衣服可以把老鼠趕走，最大的那種老鼠。
+conviction_hurst14 						叫我華特。
+conviction_hurst15 						那你睡的如何？
+conviction_hurst16 						我不睡覺，我唯一做的事就是思考，有很多時間可以思考。
+conviction_hurst16b                     你在思考什麼？
+conviction_hurst16c                     死亡，還有我的小女兒。
+conviction_hurst17 						她需要你，亨利，你得堅強些，這對她來說一定也很難受。
+conviction_hurst18 						我整天都在牢裡，她甚至不知道我的存在。
+conviction_hurst19 						改變永遠不嫌晚，亨利。
+conviction_hurst19b 					我希望我能再來看看你。
+conviction_hurst20 						好的，先生，感謝你，先生。
+conviction_hurst21 						我們可以處理一下老鼠問題嗎？這不是什麼落後地區。
+conviction_hurst22 						我會拿些老鼠藥放那裡。
+
+conviction_visitationintro_1            我成功說服保安隊長讓他破例允許讓摩根家族探訪。
+
+conviction_visitation_0					你好，先生，我是凱利・摩根，來探訪亨利・摩根。
+conviction_visitation_1					站在線後面。
+conviction_visitation_2 				抱歉，我是來見亨利的，亨利・摩根，他是我的丈夫，先生。
+conviction_visitation_3 				我不會再說第二次，立刻站到線後面去。
+conviction_visitation_4 				是的，先生，抱歉，先生。
+conviction_visitation_5 				好了，過來，我沒有整天的時間陪你耗。
+conviction_visitation_6					姓名。
+conviction_visitation_7					凱利・摩根，先生，來探訪亨利・摩根，這是他的寶貝女兒。
+conviction_visitation_8					這就是你跟他說的？你過去吧。
+conviction_visitation_8a                凱利！
+conviction_visitation_9					我想可能有地方搞錯了，摩根家族的探監權已經取消了。
+conviction_visitation_9b 				什麼？
+conviction_visitation_9c 				我很抱歉，但我們早上在他的牢房裡面找到一瓶酒，這我愛莫能助。
+conviction_visitation_10				我花了兩個小時才到這裡，我女兒正在大哭，這不公平啊。
+conviction_visitation_11				你想要公平，那去迪士尼樂園吧，那邊可以釣金魚又可以吃熱狗，待在這裡是找不\n到公平的。
+conviction_visitation_12				拜託，把這個交給他。
+conviction_visitation_13                這沒問題，他短時間內都不會有人來探訪他，還有什麼要傳達的訊息嗎？
+conviction_visitation_14                不，不用了。
+
+conviction_visitation_angrymorgan0		不！
+conviction_visitation_angrymorgan1		等等！
+conviction_visitation_angrymorgan2		你不能這麼做！
+conviction_visitation_angrymorgan3		讓我跟他說話！
+conviction_visitation_angrymorgan4		你這該死的混帳！
+
+conviction_helpinmates_1                這真是令人沮喪。
+conviction_helpinmates_2                真的很難找方法去幫助這些人，他們應該學著自己幫助自己。
+conviction_helpinmates_3                我想我們應該要解決一下會客室的問題，家屬們都等在門後，很顯然的我們沒辦法\n一次容納這麼多探訪來賓。
+conviction_helpinmates_4                建造一個新的會客室，儘管摩根遭遇了這樣的事，但我想我們還是得往好處想，再\n說這裡也不是只有他有家屬想要探訪。
+conviction_helpinmates_5                我正在做一些研究調查，意外的發現這裡很多囚犯都只會基本的算數和閱讀能力，\n我們應該開始補救這個問題。
+conviction_helpinmates_6                建造一個新的教室，然後從外面聘請一些老師來教這些基本的東西，如果沒有適當\n的教育，這些囚犯除了犯罪以外人生就沒有其他的意義。
+conviction_helpinmates_7                此外為了確保大量囚犯持續收容，我們必需要擴張我們的設施，以提供妥善的收容\n環境。
+
+conviction_outro1                       我想我們幫這裡改變了很多，我們給這些囚犯一些工作做，並給了他們生活的意義。
+conviction_outro2                       如果你想要的話，可以留下來看看第一批囚犯通過教育和工作課程。
+conviction_outro3                       不過我想接下來我們可以自己接手，當你準備好要離開的時候，點選摩根牢房裡的\n拍立得照片。
+
+conviction_secondvisit_1                我想在我的課堂上看到你。
+conviction_secondvisit_2                我辦不到，我不想再待在這裡了。
+conviction_secondvisit_3                一天一堂就好。
+conviction_secondvisit_4                我是說這整個臭氣沖天的地方，這裡也是、那裡也是，他們根本不讓我見我的家人\n，我搞砸了，先生，而這一切都無法改變。
+conviction_secondvisit_5                亨利，一切都會沒事的，我就在這裡陪你。
+conviction_secondvisit_6                真好笑，他也說了一模一樣的話。
+conviction_secondvisit_7                是誰說的？亨利，你可以告訴我。
+conviction_secondvisit_8                他一直都很照顧我。
+conviction_secondvisit_9                當我還年輕的時候。
+conviction_secondvisit_10               不要緊張，無論發生什麼都不要慌，孩子。
+conviction_secondvisit_11               我就在這裡陪你。
+conviction_secondvisit_11b 				在這裡陪我？
+conviction_secondvisit_12               但後來他就不在那裡了。
+conviction_secondvisit_13               我跟你打個商量，下堂課來上課，我就盡可能的幫你解決探訪的問題。
+conviction_secondvisit_14               先生，你真的願意幫我？
+conviction_secondvisit_15               這不只是為了你而已，亨利。
+
+conviction_suicide_1 					抱歉，先生，我想應該讓你知道，又發生了另一起自殺事件。
+conviction_suicide_2					看起來是有囚犯誤食了老鼠藥。
+conviction_suicide_3					赫斯特醫生現在正趕過來檢查原因。
+conviction_suicide_4					她是你見過最漂亮的事物嗎？
+conviction_suicide_5					嗯，我想她是的。
+conviction_suicide_6					改變永遠不嫌晚，先生。
+
+objective_conviction_expandcapacity50			處理新進囚犯收容
+objective_conviction_expandcapacity50_description	你可以在工具列的「規劃」模式看到辛勞防區的設計圖。
+objective_conviction_expandcapacity_cells	 	建造單人牢房給 40 名囚犯
+objective_conviction_expandcapacity_shower		提供沐浴設施
+objective_conviction_expandcapacity_yard		提供廣場
+objective_conviction_expandcapacity_intake		等待下一批囚犯抵達
+
+objective_conviction_workprogram 				開一堂工作技巧訓練課程
+objective_conviction_unlocklabour				在監獄制度頁面核准「監獄勞動」計畫
+objective_conviction_work_trainkitchen			(非必要) 在「廚房安全與衛生」課程內訓練 5 名囚犯
+objective_conviction_work_kitchen				指派囚犯到廚房工作
+objective_conviction_work_workshop				建造一個工作坊
+objective_conviction_work_trainworkshop			(非必要) 在「工作坊安全簡介」課程內招收 10 名囚犯
+objective_conviction_work_assignworkshop		指派囚犯到工作坊工作
+objective_conviction_work_produceplates			(非必要) 生產 100 片車牌
+objective_conviction_work_exportszone			在道路旁邊規劃出口區
+objective_conviction_work_setintake             設定每日新進人數為 10 人
+
+objective_conviction_unlocklabour_description	 你可以在待辦事項清單上方找到監獄制度的按鈕。
+objective_conviction_work_kitchen_description	 要指派囚犯到廚房，請在「後勤」介面中點選「監獄勞動」。\n\n囚犯必須通過「廚房安全與衛生」訓練課程才能在廚房內工作。
+objective_conviction_work_assignworkshop_description 	要指派囚犯到工作坊，請在「後勤」介面中點選「監獄勞動」。\n\n囚犯必須通過「工作坊安全簡介」課程才能在工作坊內工作。
+objective_conviction_work_trainkitchen_description 		要開訓練或教化課程，請在「監獄報告」(右下角)內點選「教化課程」頁面，囚犯會在工作時間去上課。\n\n你至少要在日程表內規劃兩個小時的工作時段，否則囚犯會來不及去上課。
+objective_conviction_work_trainworkshop_description 	要開訓練或教化課程，請在「監獄報告」(右下角)內點選「教化課程」頁面，囚犯會在工作時間去上課。\n\n你至少要在日程表內規劃兩個小時的工作時段，否則囚犯會來不及去上課。
+objective_conviction_work_setintake_description         要確保你的監獄不會太過擁擠，請在「監獄報告」(右下角)內點選「抽容」頁面，然後用左右鍵頭調整每日新進人數為10。
+
+objective_conviction_visitation				提供更好的探監服務
+objective_conviction_visitationroom	        建造一個新的會客室
+objective_conviction_visitationcount		提供至少 20 名囚犯的家屬探訪
+objective_conviction_telephones	 			在所有廣場上設置電話亭
+objective_conviction_mailroom				建造一間郵務室
+objective_conviction_mailroomwork			指派囚犯到郵務室內工作
+
+objective_conviction_mailroomwork_description           要指派囚犯到郵務室，請在「後勤」介面內點選「監獄勞動」。
+
+objective_conviction_education				教育你的囚犯
+objective_conviction_unlockeducation		在監獄制度頁面核准「教育」計畫
+objective_conviction_education_classroom	建造一間教室
+objective_conviction_education_class 		開一堂「基礎教育學程」課程
+objective_conviction_education_learn		(非必要) 讓 5 名囚犯通過「基礎教育學程」課程
+objective_conviction_education_library		建造一間圖書館
+objective_conviction_education_librarywork	指派囚犯到圖書館工作
+objective_conviction_education_chapel		建造一間教堂
+objective_conviction_education_spiritual	開一堂「精神指導」課程
+
+objective_conviction_expandcapacity100			擴充監獄容量
+objective_conviction_expandcapacity_cells100	擴充監獄的單人牢房給 80 名囚犯
+objective_conviction_expandcapacity_cells200	(非必要) 擴充監獄的單人牢房給 120 名囚犯
+
+objective_Conviction_PlayerExitsMap         當你準備好時，點選摩根牢房裡的的\n拍立得照片以繼續劇情。
+
+
+# =============================================================================
+# Epilogue
+# =============================================================================
+
+campaignchapter_epilogue                白手起家
+campaigncutscene_epilogueintro          再次拜訪
+campaigncutscene_epilogueoutro          尾聲 
+
+campaignchapter_epilogue_description    一座歷史悠久的監獄及將要拆除重建，用你目前學到的技\n巧，將其打造成為一座完美的監獄吧。
+
+adviser_name_reporter 					記者
+
+epilogue_newsintro1 					CNDC 今日新聞，關於我們監獄目前狀況的特別報導。
+epilogue_newsintro2 					惡名昭彰的「Alchemico 攻防戰」距今已經兩年了，當時奪走無數條人命，包括當\n時的執行長查爾斯・華萊士。
+epilogue_newsintro4 					今天，我們將邀請到一流的專家，為我們分析講解，自從那次事件之後有什麼樣的\n改變。
+epilogue_newsintro5 					首先，我們將連線到本州經營最久、即將拆除重建的監獄現場。
+epilogue_newsintro6						現場即時轉播，只在 CNDC 新聞網獨家呈現
+
+epilogue_reporter1						感謝莎拉，這座監獄收容了國家最兇殘的罪犯。
+epilogue_reporter2 						但現在，他的高牆即將要拆除，準備重新改建為一座嶄新的綜合監獄。
+epilogue_reporter3 						現在在我身後，你可以清楚的看到工程小組已經抵達現場，並開始拆除工程。
+epilogue_reporter4 						在我身邊的是我們市長，卡爾文・海勒。市長，感謝您今天撥空前來跟我們說說話。
+epilogue_reporter5 						這是我的榮幸。
+
+epilogue_reporter6 						在過去你不斷的強力推行更嚴格、更有紀律的監獄管理方針。
+epilogue_reporter6b 					那為什麼今天要把這座執行這麼久懲罰性管理的監獄給拆除呢？
+epilogue_reporter7 						這座監獄和他的管理模式都已經慢慢的老舊過時了。
+epilogue_reporter8 						因此我們決定將他整個拆除改建為全新的設施，並同時施行更現代化的管理機制。
+epilogue_reporter9						幾年前，這最監獄因為是本州最後的死刑設施而上了新聞。
+epilogue_reporter10 					相關活動人士極力的想廢除這裡的死刑，這次你會成全他們嗎，或者你會重建行刑\n設施呢？
+epilogue_reporter12 					關於這點我們還在研擬中，我們將會慎重的做出決定。
+
+epilogue_reporterend1 					感謝您，海勒市長，我們將現場交還給主播。
+epilogue_newstransition1 				這裡是 CNDC 新聞網，記者在州立監獄採訪報導。
+epilogue_newstransition2 				廣告過後，我們將邀請到監獄的心理與復健專家，華特・赫斯特醫生。
+
+epilogue_parole1 						還是沒消息？都過多久了？
+epilogue_parole2						我記不清楚了，沒有電話，也沒有來信。
+epilogue_parole3 						我很抱歉，摩根，這話可能有點傷人，但你現在掌握著機會，別搞砸了。
+epilogue_parole4 						祝你好運，亨利。
+epilogue_parole5 						說實話，不要說那些你以為他們想聽的話。
+epilogue_parole6 						我該走了，我再一分鐘就要上現場轉播了。
+epilogue_parole7                        海勒市長，你的看法如何？
+epilogue_parole10 						這真快！
+epilogue_parole11 						嗯？
+epilogue_parole12                       ...
+
+epilogue_outro_1 						歡迎回到 CNDC 新聞網特別報導，在現場的是我們的卡爾文・海勒市長。
+epilogue_outro_2 						另外邀請到的是華特・赫斯特醫生，他被指出在監獄改造計畫上花費了大筆的資金。
+epilogue_outro_2b 						赫斯特醫生，你覺得你成功了嗎？
+epilogue_outro_3						成功？不，整體來說並不算成功。
+epilogue_outro_4						我相信所有人都有進步的潛力，而我們必須要給他們機會。
+epilogue_outro_4b 						我可以很肯定的說，在這裡很多囚犯在態度與對未來希望上都有明顯的進步。
+epilogue_outro_5						監禁應該是一種嚇阻力，而不應該是發展或改變的機會。
+epilogue_outro_6 						懲處或踐踏他們尊嚴只會讓他們再次犯罪。
+
+epilogue_outro_7						我們提供這些囚犯珍貴的生存技能，更重要的是，我們給他們希望。
+epilogue_outro_7b  						我們協助他們在獲釋之後能重新回到社會，並能對社會有所貢獻。
+epilogue_outro_8						一般的民眾不會有免費的訓練、免費的教育和絕對鐵飯碗的工作。
+epilogue_outro_8b 						我們這樣做反而忽視了受害者，並獎勵了犯罪者。
+epilogue_outro_8c 						花費大量的鉅資，只是要讓這些罪犯覺得自己很好。
+epilogue_outro_9						我們可以改變，即使一次只能改變一個人。
+epilogue_outro_10						這些人還沒有獲得自由。
+epilogue_outro_11						你為了保護你後院的小鳥，不斷的趕走野貓，但牠最後還是會跑回去。
+epilogue_outro_12 						這是牠的天性。
+
+epilogue_sandbox_1                      恭喜你晉升為執行長，這是一個轉機、一個全新的開始。
+epilogue_sandbox_2                      你將完全掌管監獄所有事務，更多的囚犯、更高的再犯率，許多挑戰等著你去克服。
+epilogue_sandbox_3						至於死刑設施，拆除或保留，這都完全由你決定，如果你不做，其他人或許還是會做。
+epilogue_sandbox_4						至於經營目標，我對你的期望跟前任執行長的期望一樣，利潤、再犯率、收容量。
+epilogue_sandbox_5 						至於該怎麼達成，這也是由你來作主。
+epilogue_sandbox_5b                     最後一件事，前任執行長查爾斯・華萊士留下了一封信，這是給每位剛加入公司的\n監獄建築師看的一封信。
+epilogue_sandbox_5c                     裡面有一些不錯的建議，你不妨看看。
+epilogue_sandbox_6						祝你好運！
+
+objective_epilogue_grants				透過輔助計畫募得資金
+objective_epilogue_grants_description   輔助計畫是取得大量監獄資金的方法之一。\n\n你可以在監獄報告(螢幕右下角)內的「輔助計畫」找到一整排輔助計畫清單，許多單位會提供你資金來協助擴建你的監獄。
+
+objective_epilogue_certifiedprison		蓋一座監獄
+objective_epilogue_capacity				收容至少 100 名囚犯
+objective_epilogue_bankbalance			銀行餘額至少達到 $60,000 
+objective_epilogue_cashflow				資金流動為正
+
+epilogue_outrointro_1                   我可以看到你有一個非常好的開始。
+epilogue_outrointro_2                   如果你在電視機旁，快把電視機打開，我想給你看一些東西。
+
+epilogue_basiccompletion_1 				你的監獄已經達到州立監獄的最低要求標準，接下來的路要怎麼走就由你自己決定。
+epilogue_basiccompletion_2 				此時此刻，要做什麼事情也是由你和你的公司決定。
+epilogue_basiccompletion_3 				而市長辦公室那邊關心的只有一個數字，那就是再犯率。
+epilogue_basiccompletion_4	 			如果你能成功的降低獲釋囚犯的再犯率，那就真的是一大成功。
+epilogue_basiccompletion_5 				有些人，像是赫斯特醫生，相信只能透過教育、教化課程、技能訓練等等方式來降\n低再犯率。
+epilogue_basiccompletion_6 				而在我的觀點看來，懲處應該也是一個可行的辦法。
+epilogue_basiccompletion_8 				交給你決定吧，我向你至上最誠摯的祝福！
+epilogue_basiccompletion_9 				當你準備好後，點選路上的拍立得照片離開這座監獄。When you are done, click on the polaroid on the road to leave the prison.
+
+objective_epilogue_reoffending			(非必要) 降低監獄的再犯率
+objective_epilogue_reoffending_description	你可以點選螢幕左上角的按鈕，在「監獄評鑑」介面看到你的再犯率。
+
+objective_epilogue_reoffending_rate		將再犯率降低到 30% 以下
+objective_epilogue_reoffending_released	至少讓 10 名囚犯服刑期滿獲釋
+
+objective_Epilogue_PlayerExitsMap				當你覺得你做的差不多了，點選路上的拍立得照片。
+objective_epilogue_playerexitsmap_description	拍立得照片再靠近卸貨區的路上。
+
+
+# =============================================================================
+# Credits
+# =============================================================================
+
+campaigncutscene_epiloguecredits        製作人員
+
+credits_createdby1                      - 原創 -
+credits_createdby2                      Chris Delay
+credits_producer1                       - 製作 -
+credits_producer2                       Mark Morris
+credits_art1                            - 美術 -
+credits_art2                            Ryan Sumo
+credits_sound1                          - 音效 -
+credits_sound2                          Alistair Lindsay
+credits_screenplay1                     - 編劇 -
+credits_screenplay2                     Chris Hastings
+credits_programmers                     - 程式 -
+credits_programmers1                    John Knottenbelt
+credits_programmers2                    Leander Hambley
+credits_programmers3                    Gary Chambers
+credits_programmers4                    Andrew Lim
+credits_programmers5                    Jeffrey Sheen
+credits_programmers6                    Finlay Curran
+credits_graphicdesign1                  - 畫質設計 -
+credits_graphicdesign2                  Morten Pedersen
+credits_special                         - 特別感謝 -
+credits_special1                        Will Morris
+credits_special2                        Sam Morris
+credits_special3                        Jo Stansfield
+credits_special4                        John Cook
+credits_special5                        Alex Chapman
+credits_special6                        Alex Tutty
+credits_introversion                    - INTROVERSION SOFTWARE -
+credits_introversion1                   Chris Delay
+credits_introversion2                   Mark Morris
+credits_introversion3                   John Knottenbelt
+credits_introversion4                   Thomas Arundel
+credits_pa1                             監獄
+credits_pa2                             建築師
+
+
+# =============================================================================
+# MCExporter
+# =============================================================================
+
+
+codex_mcexport                          將監獄匯出至 Minecraft
+codex_mcexportname						Minecraft 匯出工具
+codex_worldnametitle					世界名稱
+codex_seedtitle							種子
+codex_gamemodetitle						遊戲模式
+codex_mapfeattitle						地圖特色
+codex_cheatstitle						作弊
+codex_timeofdaytitle					時間
+codex_rainingtitle						下雨
+codex_thunderingtitle					打雷
+codex_generatortitle					產生器
+codex_scaletitle						規模大小
+codex_exporttomc						匯出
+codex_mcexport_default					預設
+codex_mcexport_flat						平坦
+codex_mcexport_largebiomes				大型生態
+codex_mcexport_survival					生存
+codex_mcexport_creative					創造
+codex_mcexport_adventure				冒險
+
+
+# =============================================================================
+# Escape Mode
+# =============================================================================
+
+escapemode_help_title                   逃獄 - 是你唯一的出路
+escapemode_help                         第一步: 名聲 - 你的名聲在這裡就等於你的全部\n\n• 引發打架來獲得聲望，打傷他人是一種方式，但破壞物品也是不錯的引戰方法，\n一場戰鬥中造成越多傷害越好。\n• 別放過任何目擊者，如果被警衛看到你在打架，你就會被處罰，除非他們剛好不\n在附近。\n• 被擊倒很難看，戰鬥結束的時候你最好是最後站在場上的人。\n\n第二步: 小隊 - 招募其他囚犯加入你的逃獄計畫\n\n• 吹口哨叫隊員過來，他們就會跟著你一起行動。 (左上角可以點選他們的名字)\n• 他們甚至會幫你一起打架，讓你名聲增加更快。\n• 訓練你的小隊，身邊有格鬥高手或短跑健將的隊員會很有幫助。\n\n第三步: 違禁品 - 你需要武器和工具\n\n• 找一個藏有你需要工具的房間，四處看看你就會發現有實用的東西可以偷走。\n• 小心金屬探測器和正在找你的警衛，如果你被查到攜帶違禁品，他們會沒收並把\n你丟進禁閉室。\n• 藏好你的裝備，你可以把找到的東西藏在你的牢房或是別人的牢房中，別忘了你\n把東西藏在哪。\n\n第四步: 地道 - 安靜的離開\n\n• 拿一個挖掘工具，從你的牢房的廁所內開始挖地道。\n• 挖掘十分緩慢，請你的小隊員幫你一起挖。\n• 別被看到，如果被警衛看到你進出地道，你的計畫就會曝光。\n\n祝你好運，你會需要好運的。
+
+codex_escapemode                        逃獄模式
+codex_escapemode_developer              (開發者) 逃獄模式
+codex_escapemode_new                    開始新逃獄
+codex_escapemode_load                   讀取逃獄
+codex_escapemode_save                   儲存逃獄
+codex_escapemode_workshop               逃獄模式 (Steam 工作坊)
+codex_escapemode_workshop_star_rating   *S 顆星以上
+
+escapemode_combat_attack                攻擊
+escapemode_combat_attack_button         點擊左鍵
+escapemode_combat_lunge                 衝刺
+escapemode_combat_lunge_button          Shift
+escapemode_dig_button                   長按左鍵
+escapemode_dig                          挖掘
+escapemode_surrender                    投降
+escapemode_surrender_safe               戰鬥結束
+escapemode_surrender_button             空白鍵
+
+escapemode_gameover                     遊戲結束
+
+escapemode_reputation_points            聲望值:
+escapemode_reputations_cost             *C 點聲望值
+escapemode_reputations_max              最大
+
+escapesquad_squad_member                小隊隊員
+escapesquad_recruitment                 長按右鍵招募隊員
+escapesquad_recruitment_cost            所需聲望值: *C
+escapesquad_toggle_follow               切換跟隨
+escapesquad_nameplate_following         跟隨中
+escapesquad_skip_punishments            跳過處罰
+escapesquad_skip_punishments_tooltip    花費聲望值，讓所有小隊員都進行睡覺跳過他們的處罰，並在各自的牢房起床。
+escapesquad_sleep                       睡覺
+escapesquad_sleep_tooltip               點選以睡過這晚。
+escapesquad_reputations                 聲望值
+escapesquad_reputations_tooltip         花費聲望值提升小隊戰鬥能力。
+escapesquad_follow_mode                 跟隨模式
+escapesquad_follow_mode_tooltip         跟隨模式的囚犯會跟隨你並跟你做一樣的事情。\n\n按 R 來切換所有囚犯的跟隨模式。
+escapesquad_remove_member               移除小隊隊員
+escapesquad_remove_member_tooltip       點選從小隊中移除這個囚犯。
+escapesquad_escaped                     已脫逃
+
+escapemode_sprint_unlock                \n\n長按 Shift 跑步，只有在非戰鬥狀態下可以跑步。
+
+escapemode_info_right_click             點右鍵
+escapemode_info_hold_right_click        長按右鍵
+escapemode_info_stash                   藏匿違禁品
+escapemode_info_pick_up                 撿起違禁品
+escapemode_info_start_tunnel            開啟地道
+escapemode_info_enter_tunnel            進入地道
+escapemode_info_exit_tunnel             離開地道
+escapemode_info_dig_up                  挖掘
+escapemode_info_steal                   偷竊
+
+escapemode_info_tool                    [挖掘工具]
+escapemode_info_damage                  傷害: *D
+escapemode_info_recharge                冷卻時間: *T
+
+escapemode_gameover                     遊戲結束
+escapemode_gameover_squad_title         小隊
+escapemode_gameover_casualties_title    受害者
+escapemode_gameover_totalscore_title    總分
+escapemode_gameover_totaltime_title     花費時間
+escapemode_gameover_time_days           *D 天, *H 小時 又 *M 分鐘
+escapemode_gameover_time                *H 小時 又 *M 分鐘
+
+codex_workshop_select_random_prison     工作坊隨機監獄
+codex_workshop_searching                搜尋中
+
+
+# =============================================================================
+# Collectables
+# =============================================================================
+
+
+codex_gamebible                         遊戲聖經
+codex_gamebible_next                    >
+codex_gamebible_prev                    <
+codex_gamebible_singlepage              第 *X 頁
+codex_gamebible_doublepage              第 *X - *Y 頁
+object_collectable                      筆記內頁
+
