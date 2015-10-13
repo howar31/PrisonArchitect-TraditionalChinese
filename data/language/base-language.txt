@@ -1801,8 +1801,8 @@ objective_grant_educationreformprogram_description  一些輿論團體正在推�
 objective_grant_educationreformprogram_research     在監獄制度中解鎖教育
 objective_grant_educationreformprogram_classroom    建造一間教室
 objective_grant_educationreformprogram_desks        設置二十張課桌椅
-objective_grant_educationreformprogram_foundationed 讓十五名囚犯通過基礎教育學程
-objective_grant_educationreformprogram_generaled    讓五名囚犯通過普通教育學程
+objective_grant_educationreformprogram_foundationed 讓十名囚犯通過基礎教育學程
+objective_grant_educationreformprogram_generaled    讓一名囚犯通過普通教育學程
 
 objective_grant_prisonlabour                        監獄生產設施
 objective_grant_prisonlabour_description            投資者希望能夠增加監獄的利潤，並願意提供資金協助建立工作坊，讓囚犯成為勞動力。

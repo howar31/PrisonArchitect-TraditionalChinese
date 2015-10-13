@@ -180,12 +180,12 @@ adviser_name_sonnystrangled				桑尼・巴勒莫
 adviser_name_anthonysuited				安東尼・巴勒莫
 adviser_name_wiggins					威金斯
 adviser_name_nicoinfirmary				尼克・塔莫瑞提
-adviser_name_vitalia					維他利亞・巴勒莫
+adviser_name_vitalia					維塔莉雅・巴勒莫
 
 cutscene_foodfamily_palermo01			唐・維克多・巴勒莫，是東岸最令人畏懼的幫派家族的老大。
 cutscene_foodfamily_palermo1			十幾年來，巴勒莫家族一直在躲避 FBI 聯邦調查局的追緝。
 cutscene_foodfamily_palermo02			安東尼・巴勒莫，唐的長子，也是家族繼承人，負責經營家族的大小事務。
-cutscene_foodfamily_palermo03			尼克・塔莫瑞提 原本不是家族的正式成員，但後來他娶了唐的獨女維他利亞之後，也加入家族\n一同經營事業。
+cutscene_foodfamily_palermo03			尼克・塔莫瑞提 原本不是家族的正式成員，但後來他娶了唐的獨女維塔莉雅之後，也加入家族\n一同經營事業。
 cutscene_foodfamily_palermo04			而 桑尼・巴勒莫，唐的第二個兒子，也是最小的兒子，他的脾氣跟牛一樣壞，但\n智力大概只有牛的一半吧。
 
 cutscene_foodfamily_palermo2 			他們的家族企業專門經營緬因州和佛羅里達州的毒品交易。
@@ -194,7 +194,7 @@ cutscene_foodfamily_palermo3b           然後被一個吃醋的丈夫射死。
 cutscene_foodfamily_palermo4			對家族來說更不幸的是，警方在現場發現安東尼的包包裡面找到 12 公斤\n未切割的古柯鹼。
 cutscene_foodfamily_palermo5			而所有證據都指向家族。
 cutscene_foodfamily_palermo6			一夜之間，巴勒莫家族辛苦打造的一切全部化為泡影，FBI 掌握了所有證據，\n足以把整個家族關進監獄。
-cutscene_foodfamily_palermo7			除了維他利亞，唐的唯一女兒，也是唯一沒有被關起來的家族成員。
+cutscene_foodfamily_palermo7			除了維塔莉雅，唐的唯一女兒，也是唯一沒有被關起來的家族成員。
 cutscene_foodfamily_palermo8			我們對她瞭解不多，我們只知道她總是避免接觸家族事業。
 cutscene_foodfamily_palermo9 			但監獄外一定有人把這些毒品偷渡進來。
 
@@ -258,7 +258,7 @@ cutscene_food_successionintro3 			當你準備好時，點一下醫務室的拍�
 objective_food_runending 				當你準備好時，點選醫務室的拍立得\n照片以繼續劇情。
 objective_food_runending_description	醫務室在監獄的西南角。
 
-cutscene_food_succession1				維他利亞！ 
+cutscene_food_succession1				維塔莉雅！ 
 cutscene_food_succession1b				...?
 cutscene_food_succession2				甜心寶貝！
 cutscene_food_succession3				十分抱歉我搞砸了。
@@ -284,12 +284,12 @@ cutscene_food_succession18				再見了，尼克。
 # =============================================================================
 
 campaignchapter_riot                    G.A.B.O.S
-campaignchapter_riot_description		Alchemico州立監獄發生大暴動，盡快前往並鎮壓現場。
+campaignchapter_riot_description		阿基米科州立監獄發生大暴動，盡快前往並鎮壓現場。
 
 campaigncutscene_riotintro              最新消息
 
 adviser_riot_newsintro_01				最新消息！
-adviser_riot_newsintro_02				Alchemico 州立監獄發生大暴動 - 所有員工和警衛已經撤離，等待軍方協助。
+adviser_riot_newsintro_02				阿基米科州立監獄發生大暴動 - 所有員工和警衛已經撤離，等待軍方協助。
 adviser_riot_newsintro_1				但有許多人目前仍下落不明，其中包含了公司執行長查爾斯・華萊士。
 adviser_riot_newsintro_2				幾位知名法官被逮捕不久後，隨即就發生了暴動...
 adviser_riot_newsintro_3				...這些法官據說因私下被買通，讓一些囚犯的刑期縮短。
@@ -508,7 +508,7 @@ adviser_conviction_heist9               照我說的做，懂？
 adviser_conviction_heist10              幹，幹，幹！
 adviser_conviction_heist11              別開槍！別開槍！！
 
-conviction_intro_1                      經過上次 Alchemico 州立監獄的悲劇之後，我們被進行嚴格的政治審查。
+conviction_intro_1                      經過上次 阿基米科州立監獄 的悲劇之後，我們被進行嚴格的政治審查。
 conviction_intro_2                      在新的執行長上任之前，我希望你能代為管理。
 conviction_intro_3                      這座監獄最近連續發生好幾起自殺案件，雖然原因其實很明顯，但我們有其他更重\n要的問題要處理。
 conviction_intro_4                      上面決定要送一大批囚犯到我們這，第一批在明天早上就會抵達，但我們現在還沒\n有足夠的空間收容他們。
@@ -682,7 +682,7 @@ campaignchapter_epilogue_description    一座歷史悠久的監獄及將要拆�
 adviser_name_reporter 					記者
 
 epilogue_newsintro1 					CDNC 今日新聞，關於我們監獄目前狀況的特別報導。
-epilogue_newsintro2 					惡名昭彰的「Alchemico 攻防戰」距今已經兩年了，當時奪走無數條人命，包括當\n時的執行長查爾斯・華萊士。
+epilogue_newsintro2 					惡名昭彰的「阿基米科攻防戰」距今已經兩年了，當時奪走無數條人命，包括當\n時的執行長查爾斯・華萊士。
 epilogue_newsintro4 					今天，我們將邀請到一流的專家，為我們分析講解，自從那次事件之後有什麼樣的\n改變。
 epilogue_newsintro5 					首先，我們將連線到本州經營最久、即將拆除重建的監獄現場。
 epilogue_newsintro6						現場即時轉播，只在 CDNC 新聞網獨家呈現
