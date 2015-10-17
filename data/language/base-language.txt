@@ -14,7 +14,7 @@ dialog_name                             名稱
 dialog_type                             類型
 dialog_x                                X
 dialog_y                                Y
-dialog_z								Z
+dialog_z                                Z
 dialog_w                                W
 dialog_h                                H
 dialog_exit                             離開
@@ -49,8 +49,8 @@ dialogeditor_window                     視窗
 dialogeditor_grid                       網格
 dialogeditor_caption                    標題
 dialogeditor_component                  元件
-dialogeditor_select						選擇
-dialogeditor_create						建立
+dialogeditor_select                     選擇
+dialogeditor_create                     建立
 dialogeditor_background                 背景圖
 dialogeditor_panel                      面板
 
@@ -68,7 +68,7 @@ dialogcomponent_selectionlistitem       選擇列表項目
 dialogcomponent_scrollbar               捲軸
 dialogcomponent_progressbar             進度條
 dialogcomponent_canvas                  畫布
-dialogcomponent_iconbox					圖示
+dialogcomponent_iconbox                 圖示
 
 dialogposition_absolute                 絕對
 dialogposition_relative                 相對
@@ -93,15 +93,15 @@ profiler_reset                          重設
 
 soundchannelviewer_title                音效頻道
 soundeditor_title                       音效編輯器
-soundinstanceeditor_title				音效物件編輯器
+soundinstanceeditor_title               音效物件編輯器
 
-soundeditor_positiontitle		        位置類型
-soundeditor_instancetitle		        物件類型
-soundeditor_looptitle			        重播方式
-soundeditor_sourcetypetitle		        音效類型
-soundeditor_soundnametitle		        音效名稱
+soundeditor_positiontitle               位置類型
+soundeditor_instancetitle               物件類型
+soundeditor_looptitle                   重播方式
+soundeditor_sourcetypetitle             音效類型
+soundeditor_soundnametitle              音效名稱
 
-soundeditor_volumetitle			        音量
+soundeditor_volumetitle                 音量
 soundeditor_frequencytitle              頻率
 soundeditor_mindistancetitle            最短距離
 soundeditor_attacktitle                 攻擊
@@ -134,7 +134,7 @@ samplebank                              (範例庫)
 
 interfacemode_done                            完成
 interfacemode_destroy                         剷除
-interfacemode_foundations				      地基
+interfacemode_foundations                     地基
 interfacemode_construction                    建材
 interfacemode_planning                        規劃
 interfacemode_objects                         物件
@@ -200,19 +200,19 @@ interfacelogistics_targettingfood               食物分配
 interfacelogistics_targettinglaundry            衣物分配
 interfacelogistics_roomquality                  房間品質
 
-interfaceplanning_wall							牆
-interfaceplanning_object						物件
-interfaceplanning_route							走道
-interfaceplanning_clear							清除
-interfaceplanning_zone1							區域 1
-interfaceplanning_zone2							區域 2
-interfaceplanning_zone3							區域 3
-interfaceplanning_zone4							區域 4
-interfaceplanning_zone5							區域 5
-interfaceplanning_zone6							區域 6
-interfaceplanning_zone7							區域 7
-interfaceplanning_zone8							區域 8
-interfaceplanning_zone9							區域 9
+interfaceplanning_wall                          牆
+interfaceplanning_object                        物件
+interfaceplanning_route                         走道
+interfaceplanning_clear                         清除
+interfaceplanning_zone1                         區域 1
+interfaceplanning_zone2                         區域 2
+interfaceplanning_zone3                         區域 3
+interfaceplanning_zone4                         區域 4
+interfaceplanning_zone5                         區域 5
+interfaceplanning_zone6                         區域 6
+interfaceplanning_zone7                         區域 7
+interfaceplanning_zone8                         區域 8
+interfaceplanning_zone9                         區域 9
 
 interfacecontraband_source                      潛在危險
 interfacecontraband_day                         24小時內
@@ -224,27 +224,27 @@ interfacecontraband_gangs                       幫派
 interfaceclone_copy                             複製
 interfaceclone_paste                            貼上
 
-interfacetopbar_todo							待辦事項
-interfacetopbar_balance							存款 *B
-interfacetopbar_budget							資金流動 *C
-interfacetopbar_income							收入 *I
-interfacetopbar_expenses						支出 *C
-interfacetopbar_day								第 *D 天
+interfacetopbar_todo                            待辦事項
+interfacetopbar_balance                         存款 *B
+interfacetopbar_budget                          資金流動 *C
+interfacetopbar_income                          收入 *I
+interfacetopbar_expenses                        支出 *C
+interfacetopbar_day                             第 *D 天
 
-interfacetopbar_title_balance					銀行存款
-interfacetopbar_title_budget					每日資金流動
-interfacetopbar_title_cctv						閉路監視器
-interfacetopbar_title_day						天數
-interfacetopbar_title_prisoners					囚犯
-interfacetopbar_title_guards					警衛
+interfacetopbar_title_balance                   銀行存款
+interfacetopbar_title_budget                    每日資金流動
+interfacetopbar_title_cctv                      閉路監視器
+interfacetopbar_title_day                       天數
+interfacetopbar_title_prisoners                 囚犯
+interfacetopbar_title_guards                    警衛
 interfacetopbar_title_tension                   危險等級
 
-interfacetopbar_tooltip_balance					銀行內的存款金額。\n\n點選以透過補助計畫清單取得更多資金。
-interfacetopbar_tooltip_budget					根據目前支出和收入所算出每天監獄能獲取的金額。\n\n點選開啟更詳細的收入和支出明細。
-interfacetopbar_tooltip_cctv					目前擁有的閉路攝影機和監視器數量。
-interfacetopbar_tooltip_day						監獄目前營運總天數。
-interfacetopbar_tooltip_prisoners				目前收容的囚犯的數量，以及監獄能收容的上限人數。
-interfacetopbar_tooltip_guards					監獄內目前閒置、可進行其他工作的警衛數量。
+interfacetopbar_tooltip_balance                 銀行內的存款金額。\n\n點選以透過補助計畫清單取得更多資金。
+interfacetopbar_tooltip_budget                  根據目前支出和收入所算出每天監獄能獲取的金額。\n\n點選開啟更詳細的收入和支出明細。
+interfacetopbar_tooltip_cctv                    目前擁有的閉路攝影機和監視器數量。
+interfacetopbar_tooltip_day                     監獄目前營運總天數。
+interfacetopbar_tooltip_prisoners               目前收容的囚犯的數量，以及監獄能收容的上限人數。
+interfacetopbar_tooltip_guards                  監獄內目前閒置、可進行其他工作的警衛數量。
 interfacetopbar_tooltip_tension                 監獄保安隊長所評估的監獄潛在危險程度等級。
 
 interfacetopbar_tooltip_recenttransactions      最近的資金活動
@@ -265,11 +265,11 @@ interfacetopbar_tooltip_dogs                    + *X 名帶犬警衛
 
 interfacetopbar_unlimitedfunds                  無限資金
 
-interfacetopbar_budget_moneyin					收入: $*M /日
-interfacetopbar_budget_moneyout					支出: $*M /日
+interfacetopbar_budget_moneyin                  收入: $*M /日
+interfacetopbar_budget_moneyout                 支出: $*M /日
 interfacetopbar_budget_cantgonegative           在聘請會計師管理監獄財務之前，資金流動不可為負的 (也就是支出大於收入) 。
 
-interfacetopbar_prisoners_types					目前收容 *X 名囚犯:
+interfacetopbar_prisoners_types                 目前收容 *X 名囚犯:
 interfacetopbar_prisoners_capacity              最大安全收容人數: *X
 interfacetopbar_prisonercells_shared            公共區域容量: *X
 interfacetopbar_prisonercells_unlocked          不上鎖區域容量: *X
@@ -282,8 +282,8 @@ interfacetopbar_prisonercells_deathrowonly      死刑犯專區容量: *X
 interfacetopbar_prisonercells_staffonly         員工專區(無法收容囚犯): *X
 interfacetopbar_prisoners_nocells               有 *X 名囚犯尚未安排牢房
 
-interfacetopbar_cctv_current					目前共有 *C 支攝影機運作中
-interfacetopbar_cctv_cap						尚可安裝 *C 支攝影機
+interfacetopbar_cctv_current                    目前共有 *C 支攝影機運作中
+interfacetopbar_cctv_cap                        尚可安裝 *C 支攝影機
 
 interfacetopbar_tension_currentlevel            目前危險等級為 *X
 interfacetopbar_tension_increasing              且正在提高中
@@ -365,10 +365,10 @@ sector_insecure                                 不安全
 # Hardware Compatibility
 # =============================================================================
 
-hardware_compat_title					硬體相容性測試
-hardware_compat_message					在您的同意下，我們將會蒐集以下您電腦的硬體資料\n\n這些資料將會完全匿名，並協助監獄建築師(Prison Architect)能在更多的電腦硬體上順利執行，\n\n感謝您！
-hardware_compat_accept					接受
-hardware_compat_decline					拒絕
+hardware_compat_title                   硬體相容性測試
+hardware_compat_message                 在您的同意下，我們將會蒐集以下您電腦的硬體資料\n\n這些資料將會完全匿名，並協助監獄建築師(Prison Architect)能在更多的電腦硬體上順利執行，\n\n感謝您！
+hardware_compat_accept                  接受
+hardware_compat_decline                 拒絕
 
 connectionmenu_connect                  連線
 connectionmenu_disconnect               斷線
@@ -387,25 +387,25 @@ buildtoolbar_lockdown                   全面封鎖
 buildtoolbar_shakedown                  全面安檢
 buildtoolbar_weaponsfree                自由射擊
 
-buildtoolbar_tooltip_reports			開啟監獄報告書，檢視囚犯、員工、收入、補助計畫等等相關資訊。
-buildtoolbar_tooltip_bangup				將所有 (願意的) 囚犯押送回他們的牢房，\n但如果你把囚犯鎖在牢房太久，他們會非常生氣。
-buildtoolbar_tooltip_lockdown			立刻上鎖監獄內所有的門。
+buildtoolbar_tooltip_reports            開啟監獄報告書，檢視囚犯、員工、收入、補助計畫等等相關資訊。
+buildtoolbar_tooltip_bangup             將所有 (願意的) 囚犯押送回他們的牢房，\n但如果你把囚犯鎖在牢房太久，他們會非常生氣。
+buildtoolbar_tooltip_lockdown           立刻上鎖監獄內所有的門。
 buildtoolbar_tooltip_shakedown          下令立即進行全面安檢搜索所有牢房，搜索將會花費一些時間才能完成，同時也會惹惱你的囚犯們。
 buildtoolbar_tooltip_weaponsfree        授權你的武裝警衛使用致命武器。
 
-buildtoolbar_cost						費用: $*C
-buildtoolbar_cost_sqrft					費用: 每平方公尺 $*C
-buildtoolbar_wages						薪資: 每天 $*W
-buildtoolbar_outdoor					僅限戶外
-buildtoolbar_indoor						僅限室內
-buildtoolbar_walk_speed					移動速度: *S
-buildtoolbar_walk_speed_slow			慢
-buildtoolbar_walk_speed_norm			一般
-buildtoolbar_walk_speed_fast			快
+buildtoolbar_cost                       費用: $*C
+buildtoolbar_cost_sqrft                 費用: 每平方公尺 $*C
+buildtoolbar_wages                      薪資: 每天 $*W
+buildtoolbar_outdoor                    僅限戶外
+buildtoolbar_indoor                     僅限室內
+buildtoolbar_walk_speed                 移動速度: *S
+buildtoolbar_walk_speed_slow            慢
+buildtoolbar_walk_speed_norm            一般
+buildtoolbar_walk_speed_fast            快
 buildtoolbar_locked                     未解鎖
-buildtoolbar_locked_research			未解鎖 (需要監獄制度: *B)
-buildtoolbar_locked_administrator		未解鎖 (需要管理幹部: *B)
-buildtoolbar_room						房間
+buildtoolbar_locked_research            未解鎖 (需要監獄制度: *B)
+buildtoolbar_locked_administrator       未解鎖 (需要管理幹部: *B)
+buildtoolbar_room                       房間
 
 buildtoolbar_electrical                 - 電氣設備
 buildtoolbar_highpower                  - 高壓設備
@@ -413,109 +413,109 @@ buildtoolbar_water                      - 需要連接水管
 buildtoolbar_wired                      - 已連接 (正連接到其他設備)
 buildtoolbar_modcontent                 - 模組內容
 
-buildtoolbar_popup_foundations			建造/拆除 建築物來塑造監獄的格局。
-buildtoolbar_popup_construction			不同類型的地板和牆面。
-buildtoolbar_popup_planning				可在不影響工人目前工作的情況下，自由的規劃你的監獄。
-buildtoolbar_popup_designation			指定監獄特定區域為特殊用途空間。
-buildtoolbar_popup_objects				在監獄內設置各種實用的設施。
-buildtoolbar_popup_overlays				顯示監獄的安全弱點。
-buildtoolbar_popup_utilities			水電管線系統。
-buildtoolbar_popup_staff				聘請管理幹部協助監獄運轉。
-buildtoolbar_popup_deployment			指派員工到監獄內特定區域。
+buildtoolbar_popup_foundations          建造/拆除 建築物來塑造監獄的格局。
+buildtoolbar_popup_construction         不同類型的地板和牆面。
+buildtoolbar_popup_planning             可在不影響工人目前工作的情況下，自由的規劃你的監獄。
+buildtoolbar_popup_designation          指定監獄特定區域為特殊用途空間。
+buildtoolbar_popup_objects              在監獄內設置各種實用的設施。
+buildtoolbar_popup_overlays             顯示監獄的安全弱點。
+buildtoolbar_popup_utilities            水電管線系統。
+buildtoolbar_popup_staff                聘請管理幹部協助監獄運轉。
+buildtoolbar_popup_deployment           指派員工到監獄內特定區域。
 buildtoolbar_popup_logistics            指派囚犯在監獄內進行後勤勞動工作，並可手動指派餐廳和衣物清洗工作。
-buildtoolbar_popup_research				為監獄解鎖更多功能。
-buildtoolbar_popup_emergencies			呼叫緊急支援協助解決監獄內的突發事件。
-buildtoolbar_popup_spawn				重生？這是啥鬼東西？
-buildtoolbar_popup_clone				按右鍵選取複製現有的建築設施，然後可以直接貼上。
-buildtoolbar_popup_properties			找出是啥在搞鬼。
+buildtoolbar_popup_research             為監獄解鎖更多功能。
+buildtoolbar_popup_emergencies          呼叫緊急支援協助解決監獄內的突發事件。
+buildtoolbar_popup_spawn                重生？這是啥鬼東西？
+buildtoolbar_popup_clone                按右鍵選取複製現有的建築設施，然後可以直接貼上。
+buildtoolbar_popup_properties           找出是啥在搞鬼。
 buildtoolbar_popup_contraband           顯示違禁品的來源，以及最近沒收的違禁品，另外也會顯示秘密線人和他的相關資料。
 buildtoolbar_popup_grading              檢視監獄在四項重點項目中的評價 - 懲處、教化、保安、醫療，同時顯示囚犯出獄後的再犯率。
-buildtoolbar_popup_room_cell			囚犯居住的地方。
-buildtoolbar_popup_room_holdingcell		當新進囚犯還沒有分配個人牢房時，會先收容在集體牢房內。
-buildtoolbar_popup_room_solitary		禁閉室是獨立的牢房，專門用來監禁壞蛋中的壞蛋。
-buildtoolbar_popup_room_canteen			囚犯喝下午茶的地方。
-buildtoolbar_popup_room_kitchen			廚師料理準備食物的地方。
-buildtoolbar_popup_room_shower			讓你的囚犯清潔溜溜，不會長蝨子。
-buildtoolbar_popup_room_yard			在狙擊塔嚴密的監視下，讓你的囚犯每天曬曬幾小時的太陽。
-buildtoolbar_popup_room_storage			存放所有監獄員工所需的材料的區域。
-buildtoolbar_popup_room_deliveries		所有商品、材料和囚犯卸貨的地方。
-buildtoolbar_popup_room_garbage			各種廢棄物蒐集的地方。
-buildtoolbar_popup_room_execution		讓囚犯執行死刑的地方。
-buildtoolbar_popup_room_workshop		讓囚犯無聊到死的地方，同時幫你生產一些車牌。
-buildtoolbar_popup_room_security		警衛的辦公室。
-buildtoolbar_popup_room_office			管理幹部工作的地方。
-buildtoolbar_popup_room_medicalward		醫療幹部工作的地方。
-buildtoolbar_popup_room_morgue			死掉的囚犯和員工會送到這裡。
-buildtoolbar_popup_room_commonroom		囚犯在自由活動時間可以休息的地方。
+buildtoolbar_popup_room_cell            囚犯居住的地方。
+buildtoolbar_popup_room_holdingcell     當新進囚犯還沒有分配個人牢房時，會先收容在集體牢房內。
+buildtoolbar_popup_room_solitary        禁閉室是獨立的牢房，專門用來監禁壞蛋中的壞蛋。
+buildtoolbar_popup_room_canteen         囚犯喝下午茶的地方。
+buildtoolbar_popup_room_kitchen         廚師料理準備食物的地方。
+buildtoolbar_popup_room_shower          讓你的囚犯清潔溜溜，不會長蝨子。
+buildtoolbar_popup_room_yard            在狙擊塔嚴密的監視下，讓你的囚犯每天曬曬幾小時的太陽。
+buildtoolbar_popup_room_storage         存放所有監獄員工所需的材料的區域。
+buildtoolbar_popup_room_deliveries      所有商品、材料和囚犯卸貨的地方。
+buildtoolbar_popup_room_garbage         各種廢棄物蒐集的地方。
+buildtoolbar_popup_room_execution       讓囚犯執行死刑的地方。
+buildtoolbar_popup_room_workshop        讓囚犯無聊到死的地方，同時幫你生產一些車牌。
+buildtoolbar_popup_room_security        警衛的辦公室。
+buildtoolbar_popup_room_office          管理幹部工作的地方。
+buildtoolbar_popup_room_medicalward     醫療幹部工作的地方。
+buildtoolbar_popup_room_morgue          死掉的囚犯和員工會送到這裡。
+buildtoolbar_popup_room_commonroom      囚犯在自由活動時間可以休息的地方。
 buildtoolbar_popup_room_kennel          警犬住的地方。
 buildtoolbar_popup_room_chapel          當一堆官僚人士聚集在一起，為囚犯的宗教信仰需求想一個解決辦法，最後會出現什麼？\n一個「多重信仰祈禱室」就此誕生，也就是所謂的教堂。
 buildtoolbar_popup_room_paroleroom      當囚犯服刑期滿 50% 和 75% 時，就有資格申請假釋，他們的命運將會在這間房間內，由典獄長和保安隊長決定。\n\n建議安排額外的警衛戒備，當犯人知道他們假釋被駁回的時候通常會傷心欲絕。
 buildtoolbar_popup_room_library         全國各地會送一些不要的或使用過的書籍給你的監獄，囚犯要協助將書本分類並上架。
 buildtoolbar_popup_room_intake          囚犯剛抵達的時候會先帶到這裡。
 
-buildtoolbar_popup_obj_bed				不會太軟、也不會太硬，硬度剛剛好。嗯，事實上嘛，真的很硬又很小。
-buildtoolbar_popup_obj_toilet			這是基本人權。
-buildtoolbar_popup_obj_table			跟椅子非常契合。
-buildtoolbar_popup_obj_chair			跟桌子十分契合。
-buildtoolbar_popup_obj_bench			可以坐在上面。
-buildtoolbar_popup_obj_electricchair	能送出兩千伏特的正義。
-buildtoolbar_popup_obj_jaildoor			把囚犯關在他們該在的地方。
-buildtoolbar_popup_obj_jaildoorlarge	把很多囚犯關在他們該在的地方。
-buildtoolbar_popup_obj_door				一扇簡單的門。
-buildtoolbar_popup_obj_solitarydoor		最堅固的門可以阻擋最強壯的囚犯逃獄。
-buildtoolbar_popup_obj_staffdoor		一扇有上鎖的門，不只警衛能開，所有員工都能開。
-buildtoolbar_popup_obj_window			可以看一眼陽光。
-buildtoolbar_popup_obj_windowlarge		可以看很多眼陽光。
-buildtoolbar_popup_obj_tree				防止全球暖化人人有責。
-buildtoolbar_popup_obj_light			確保你在任何時間都看的到你的囚犯。
-buildtoolbar_popup_obj_cooker			讓你的囚犯體驗吃熱食的豪華生活。
-buildtoolbar_popup_obj_fridge			避免你的食材變質壞掉。
-buildtoolbar_popup_obj_bin				當扯到違禁品管控的時候，整潔是一件非常重要的事情。
-buildtoolbar_popup_obj_sink				所有的員工都必需要洗手。
-buildtoolbar_popup_obj_servingtable		把食物裝盤給你的囚犯領取。
-buildtoolbar_popup_obj_showerhead		蓮蓬的頭，洗澡用。
-buildtoolbar_popup_obj_bookshelf		一個放書的架子。
-buildtoolbar_popup_obj_officedesk		你的員工常常要寫很多東西，給他們一個閃亮的辦公桌吧。
-buildtoolbar_popup_obj_filingcabinet	你的員工需要把他們寫的東西整理收好。
-buildtoolbar_popup_obj_medicalbed		在囚犯偷走之前，你要有個地方存放毒品。
-buildtoolbar_popup_obj_morgueslab		提供死者一個有尊嚴的地方暫放，等待之後靈車來搬移。
-buildtoolbar_popup_obj_drain			去除地板上的積水。
-buildtoolbar_popup_obj_sprinkler		發生火災時自動在區域內灑水。
-buildtoolbar_popup_obj_metaldetector	當囚犯經過時可以探測是否有違禁品，但仍需要在附近安排警衛才能沒收違禁品。
-buildtoolbar_popup_obj_weightsbench		讓你的囚犯運動，他們喜歡運動。
-buildtoolbar_popup_obj_phonebooth		囚犯或許會想跟家人講話，而這些好用的電話亭實現他們的願望。
-buildtoolbar_popup_obj_tv				用一些令人麻木的平凡事物平靜囚犯的心情。
-buildtoolbar_popup_obj_largetv			讓一堆囚犯們可以共享他們的腦殘時刻。
-buildtoolbar_popup_obj_pooltable		用一場撞球洗刷無聊的監獄生活。
-buildtoolbar_popup_obj_dismantleobject	從你的監獄中移除一件物品。
+buildtoolbar_popup_obj_bed              不會太軟、也不會太硬，硬度剛剛好。嗯，事實上嘛，真的很硬又很小。
+buildtoolbar_popup_obj_toilet           這是基本人權。
+buildtoolbar_popup_obj_table            跟椅子非常契合。
+buildtoolbar_popup_obj_chair            跟桌子十分契合。
+buildtoolbar_popup_obj_bench            可以坐在上面。
+buildtoolbar_popup_obj_electricchair    能送出兩千伏特的正義。
+buildtoolbar_popup_obj_jaildoor         把囚犯關在他們該在的地方。
+buildtoolbar_popup_obj_jaildoorlarge    把很多囚犯關在他們該在的地方。
+buildtoolbar_popup_obj_door             一扇簡單的門。
+buildtoolbar_popup_obj_solitarydoor     最堅固的門可以阻擋最強壯的囚犯逃獄。
+buildtoolbar_popup_obj_staffdoor        一扇有上鎖的門，不只警衛能開，所有員工都能開。
+buildtoolbar_popup_obj_window           可以看一眼陽光。
+buildtoolbar_popup_obj_windowlarge      可以看很多眼陽光。
+buildtoolbar_popup_obj_tree             防止全球暖化人人有責。
+buildtoolbar_popup_obj_light            確保你在任何時間都看的到你的囚犯。
+buildtoolbar_popup_obj_cooker           讓你的囚犯體驗吃熱食的豪華生活。
+buildtoolbar_popup_obj_fridge           避免你的食材變質壞掉。
+buildtoolbar_popup_obj_bin              當扯到違禁品管控的時候，整潔是一件非常重要的事情。
+buildtoolbar_popup_obj_sink             所有的員工都必須要洗手。
+buildtoolbar_popup_obj_servingtable     把食物裝盤給你的囚犯領取。
+buildtoolbar_popup_obj_showerhead       蓮蓬的頭，洗澡用。
+buildtoolbar_popup_obj_bookshelf        一個放書的架子。
+buildtoolbar_popup_obj_officedesk       你的員工常常要寫很多東西，給他們一個閃亮的辦公桌吧。
+buildtoolbar_popup_obj_filingcabinet    你的員工需要把他們寫的東西整理收好。
+buildtoolbar_popup_obj_medicalbed       在囚犯偷走之前，你要有個地方存放毒品。
+buildtoolbar_popup_obj_morgueslab       提供死者一個有尊嚴的地方暫放，等待之後靈車來搬移。
+buildtoolbar_popup_obj_drain            去除地板上的積水。
+buildtoolbar_popup_obj_sprinkler        發生火災時自動在區域內灑水。
+buildtoolbar_popup_obj_metaldetector    當囚犯經過時可以探測是否有違禁品，但仍需要在附近安排警衛才能沒收違禁品。
+buildtoolbar_popup_obj_weightsbench     讓你的囚犯運動，他們喜歡運動。
+buildtoolbar_popup_obj_phonebooth       囚犯或許會想跟家人講話，而這些好用的電話亭實現他們的願望。
+buildtoolbar_popup_obj_tv               用一些令人麻木的平凡事物平靜囚犯的心情。
+buildtoolbar_popup_obj_largetv          讓一堆囚犯們可以共享他們的腦殘時刻。
+buildtoolbar_popup_obj_pooltable        用一場撞球洗刷無聊的監獄生活。
+buildtoolbar_popup_obj_dismantleobject  從你的監獄中移除一件物品。
 buildtoolbar_popup_obj_altar            將祈禱者的心聲轉達給至高無上的天神。
 buildtoolbar_popup_obj_pews             信仰者們的座椅，用最堅硬、最不柔軟且沒有軟墊的木頭做成。
 buildtoolbar_popup_obj_prayermat        讓你的囚犯在祈禱的時候不要碰到骯髒的地板。
 
-buildtoolbar_popup_staff_workman		他們會按照你提供的設計，幫你建造你的監獄。
-buildtoolbar_popup_staff_guard			幫你看管囚犯並避免他們滋事。
+buildtoolbar_popup_staff_workman        他們會按照你提供的設計，幫你建造你的監獄。
+buildtoolbar_popup_staff_guard          幫你看管囚犯並避免他們滋事。
 buildtoolbar_popup_staff_armedguard     配戴散彈槍，囚犯在攻擊這傢伙之前一般會三思。\n\n註：每個武裝警衛在軍械庫內都要有一個個人的置物櫃。
-buildtoolbar_popup_staff_doctor			自動治療附近受傷的人，不論是警衛或是囚犯。
-buildtoolbar_popup_staff_cook			用囚犯自己準備的餐點餵飽他們。
-buildtoolbar_popup_staff_gardener		讓你的監獄地面清潔溜溜。
-buildtoolbar_popup_staff_janitor		讓你的監獄室內清潔溜溜，也可以協助囚犯洗衣服。
-buildtoolbar_popup_staff_warden			你監獄的大監督者，必需要先聘僱他才能研發監獄制度和聘請其他高級幹部。
-buildtoolbar_popup_staff_chief			監獄高級幹部，掌管部署介面、閉路監視器、鎮報警衛等等監獄制度。
-buildtoolbar_popup_staff_foreman		監獄高級幹部，負責管理監獄清潔工和園丁。
-buildtoolbar_popup_staff_psychologist	監獄高級幹部，讓你可以瞭解囚犯們的內心世界。
-buildtoolbar_popup_staff_accountant		監獄高級幹部，提供監獄財務金融報告。
-buildtoolbar_popup_staff_lawyer			監獄高級幹部，協助你扭曲某些法規以獲得更大的監獄控制權。
+buildtoolbar_popup_staff_doctor         自動治療附近受傷的人，不論是警衛或是囚犯。
+buildtoolbar_popup_staff_cook           用囚犯自己準備的餐點餵飽他們。
+buildtoolbar_popup_staff_gardener       讓你的監獄地面清潔溜溜。
+buildtoolbar_popup_staff_janitor        讓你的監獄室內清潔溜溜，也可以協助囚犯洗衣服。
+buildtoolbar_popup_staff_warden         你監獄的典獄長，必須先聘僱他才能研發監獄制度和聘請其他高級幹部。
+buildtoolbar_popup_staff_chief          監獄高級幹部，掌管部署介面、閉路監視器、鎮報警衛等等監獄制度。
+buildtoolbar_popup_staff_foreman        監獄高級幹部，負責管理監獄清潔工和園丁。
+buildtoolbar_popup_staff_psychologist   監獄高級幹部，讓你可以瞭解囚犯們的內心世界。
+buildtoolbar_popup_staff_accountant     監獄高級幹部，提供監獄財務金融報告。
+buildtoolbar_popup_staff_lawyer         監獄高級幹部，協助你扭曲某些法規以獲得更大的監獄控制權。
 
-buildtoolbar_popup_uts_powerstation		產生監獄所需要的電力。
-buildtoolbar_popup_uts_capacitor		當放置在變電站旁的時候，可以提高變電站產出的電力。
-buildtoolbar_popup_uts_electricalcable	將電力配送到監獄各個角落。
-buildtoolbar_popup_uts_powerswitch		任何連接在開關上的電路可以藉此切換是否通電。\n\n按右鍵切換開或關。
-buildtoolbar_popup_uts_waterpumpstation	提供監獄水源。
-buildtoolbar_popup_uts_pipevalve		任何連接在閥門上的水管可以藉此切換是否流通。
-buildtoolbar_popup_uts_pipelarge		將大量的水配送到監獄各個角落，這水管或許大到可以讓人在裡面爬，穿過五百碼的臭氣而奔向自由。
-buildtoolbar_popup_uts_pipesmall		將水配送到監獄各個角落。
-buildtoolbar_popup_uts_cctv				不需要到處安排警衛就可以隨時監視監獄。\n\n你必需要將這個閉路攝影機連接到一台閉路監視器才能正常運作。
-buildtoolbar_popup_uts_cctvmonitor		專門設置在安全中心內，並由警衛操作的安全設備，可以遠端監看監獄內的閉路攝影機。\n\n使用連接工具將閉路攝影機連接到這台閉路監視器上。\n\n註: 一台閉路監視器一次最多顯示八個攝影機畫面，如果連接超過八台攝影機，則監視器會慢慢的輪流顯示部分攝影機的畫面。
+buildtoolbar_popup_uts_powerstation     產生監獄所需要的電力。
+buildtoolbar_popup_uts_capacitor        當放置在變電站旁的時候，可以提高變電站產出的電力。
+buildtoolbar_popup_uts_electricalcable  將電力配送到監獄各個角落。
+buildtoolbar_popup_uts_powerswitch      任何連接在開關上的電路可以藉此切換是否通電。\n\n按右鍵切換開或關。
+buildtoolbar_popup_uts_waterpumpstation 提供監獄水源。
+buildtoolbar_popup_uts_pipevalve        任何連接在閥門上的水管可以藉此切換是否流通。
+buildtoolbar_popup_uts_pipelarge        將大量的水配送到監獄各個角落，這水管或許大到可以讓人在裡面爬，穿過五百碼的臭氣而奔向自由。
+buildtoolbar_popup_uts_pipesmall        將水配送到監獄各個角落。
+buildtoolbar_popup_uts_cctv             不需要到處安排警衛就可以隨時監視監獄。\n\n你必須將這個閉路攝影機連接到一台閉路監視器才能正常運作。
+buildtoolbar_popup_uts_cctvmonitor      專門設置在安全中心內，並由警衛操作的安全設備，可以遠端監看監獄內的閉路攝影機。\n\n使用連接工具將閉路攝影機連接到這台閉路監視器上。\n\n註: 一台閉路監視器一次最多顯示八個攝影機畫面，如果連接超過八台攝影機，則監視器會慢慢的輪流顯示部分攝影機的畫面。
 buildtoolbar_popup_uts_DoorControlSystem  專門設置在安全中心內，並由警衛操作的安全設備，可以遠端開關監獄內的門。\n\n使用連接工具將門禁伺服器連接到這台門禁控制系統上，而門禁伺服器應該要安裝在你想要遙控的門的上方。\n\n註: 你可以連接無限多個門禁伺服器到門禁控制系統上，但是操作系統的警衛最快每秒只能開兩個門。
 buildtoolbar_popup_uts_phonemonitor     專門設置在安全中心內，並由警衛操作的安全設備，讓你可以監聽所有囚犯打出去的電話，即時攔截可能的犯罪計畫。\n\n使用連接工具將電話亭連接到這台電話監聽器上。
 buildtoolbar_popup_uts_Servo            將門禁伺服器安裝在你想要遙控的門的上方，請確定馬達齒輪在門的正上方。\n\n當安裝好之後，只要門禁伺服器被觸發就會自動開門 - 一般是由門禁控制系統或是門禁定時器觸發。\n\n門禁伺服器可以串連，當第一台被觸發的時候就會同時觸發後面的伺服器。
@@ -523,9 +523,9 @@ buildtoolbar_popup_uts_LogicCircuit     進階建築師專用。\n\n一個簡單
 buildtoolbar_popup_uts_LogicBridge      進階建築師專用。\n\n接收輸入訊號，並把訊號橋接到同一格的電力線路上，透過電力線路傳遞邏輯訊號到另一個邏輯單元。\n\n可以用來對整個監獄「廣播」一個訊號，例如在廣播一個時脈訊號的時候很好用。
 buildtoolbar_popup_uts_DoorTimer        在每天固定的時段自動開門。\n\n使用連接工具將門禁伺服器連接到這台門禁定時器上。
 buildtoolbar_popup_uts_Wire             連接所有遠端遙控系統設備。
-buildtoolbar_popup_uts_showallwires		顯示監獄內所有電電子路連線。
+buildtoolbar_popup_uts_showallwires     顯示監獄內所有電電子路連線。
 buildtoolbar_popup_uts_remotedoor       一扇無法用鑰匙開啟的堅固金屬門 (只能透過遠端遙控開啟) ，用這種門可以有效防止囚犯偷鑰匙逃獄。
-buildtoolbar_popup_uts_dismantleutility	從監獄移除一個設施。
+buildtoolbar_popup_uts_dismantleutility 從監獄移除一個設施。
 buildtoolbar_popup_uts_pressurepad      當有物體壓在上面時，送出一個訊號給連接的設備。
 buildtoolbar_popup_uts_statuslight      依照接收到的訊號亮紅或綠燈。
 
@@ -615,7 +615,7 @@ codex_load                              讀取監獄
 codex_loadcampaign                      讀取劇情
 codex_save                              儲存監獄
 codex_savecampaign                      儲存劇情
-codex_performance						效能測試
+codex_performance                       效能測試
 codex_developer_load                    (開發者) 讀取地圖
 codex_developer_save                    (開發者) 儲存地圖
 codex_developer_clearach                (開發者) 重置成就
@@ -628,9 +628,9 @@ codex_restartintroduction               重新開始開場故事
 codex_restartchapter                    重新開始章節
 codex_help                              幫助 (wiki)
 codex_opensavefolder                    開啟存檔資料夾
-codex_options							選項
-codex_nitgs								遊戲內的名字
-codex_workshop							分享監獄
+codex_options                           選項
+codex_nitgs                             遊戲內的名字
+codex_workshop                          分享監獄
 codex_checkforupdates                   檢查更新
 codex_preorder                          現在預購
 codex_termsconditions                   協議與條款
@@ -645,36 +645,36 @@ codex_new_medium                        中
 codex_new_large                         大
 codex_new_selectwarden                  選擇典獄長
 
-codex_options_graphics					畫質
-codex_options_resolution				解析度
-codex_options_resolutionauto			自動
-codex_options_windowed					視窗化
-codex_options_highdpi					高DPI模式
-codex_options_filtering					採樣
-codex_options_nofiltering				關
-codex_options_multisampled				多重採樣
-codex_options_supersampled				超級採樣
+codex_options_graphics                  畫質
+codex_options_resolution                解析度
+codex_options_resolutionauto            自動
+codex_options_windowed                  視窗化
+codex_options_highdpi                   高DPI模式
+codex_options_filtering                 採樣
+codex_options_nofiltering               關
+codex_options_multisampled              多重採樣
+codex_options_supersampled              超級採樣
 
-codex_options_audio						音效
-codex_options_volume					主音量
-codex_options_frequency					混音頻率
-codex_options_swapstero					交換立體聲道
-codex_options_dspenabled				啟用 DSP
-codex_options_11khz						11025 Hz
-codex_options_22khz						22050 Hz
-codex_options_44khz						44100 Hz
+codex_options_audio                     音效
+codex_options_volume                    主音量
+codex_options_frequency                 混音頻率
+codex_options_swapstero                 交換立體聲道
+codex_options_dspenabled                啟用 DSP
+codex_options_11khz                     11025 Hz
+codex_options_22khz                     22050 Hz
+codex_options_44khz                     44100 Hz
 
 codex_options_clocktype                 時鐘類型
 codex_options_clocktype_analogue        指針
 codex_options_clocktype_12h             12小時制
 codex_options_clocktype_24h             24小時制
 
-codex_options_gameplay					遊戲
-codex_options_autosave					自動存檔間隔
-codex_options_renderrooms				房間方格顯示
-codex_options_apply						套用
+codex_options_gameplay                  遊戲
+codex_options_autosave                  自動存檔間隔
+codex_options_renderrooms               房間方格顯示
+codex_options_apply                     套用
 
-codex_options_language					語言 (Language)
+codex_options_language                  語言 (Language)
 
 codex_enabled                           啟用
 codex_disabled                          停用
@@ -701,53 +701,53 @@ codex_tooltip_events                    在遊戲中隨機產生事件，記得�
 codex_option_funds                      起始資金
 codex_tooltip_funds                     你一開始就會有這麼多資金在你的銀行裡，\n在監獄報告的評估頁面出售你之前的監獄來賺取更多起始資金。
 
-codex_transfer							移送
-codex_transferring						移送中
-codex_in_prison							目前已收容
+codex_transfer                          移送
+codex_transferring                      移送中
+codex_in_prison                         目前已收容
 codex_useravatar                        這是我
 codex_tooltip_useravatar                標記這個囚犯就是你，如果你哪天入獄了，這個囚犯就是你的寫照。
 codex_tooltip_flagbio                   檢舉這個生平介紹令人產生反感或是冒犯。
 
-codex_workshop_current					目前監獄
-codex_workshop_publish					發佈這個監獄
-codex_workshop_update					更新
-codex_workshop_play						進行遊戲
-codex_workshop_downloading				下載中
-codex_workshop_download_failed			下載失敗
-codex_workshop_publishing				發佈中...
-codex_workshop_new						新建
-codex_workshop_title					標題
-codex_workshop_desc						說明
-codex_workshop_view_in_workshop			在 Steam 工作坊中檢視
-codex_workshop_heading_pubed			你發佈過的監獄
-codex_workshop_heading_subed			訂閱的監獄
-codex_workshop_published_by				由 *P 發佈
-codex_workshop_published_by_you			由你發佈
-codex_workshop_published_good			監獄已發佈
-codex_workshop_published_good_msg		你的監獄已經成功發佈。
-codex_workshop_published_bad			發佈失敗
-codex_workshop_published_bad_msg		你的監獄發佈失敗。
-codex_workshop_published_bad_msg_new	你的新監獄發佈失敗，請再試一次。
-codex_workshop_busy						Steam 正在進行某些神秘的魔法儀式，請等待完成後再試一次。
-codex_workshop_file_exists				你已經用這個名字發佈過監獄，請換一個名字。
-codex_workshop_generic_fail				發佈監獄失敗，請再試一次。
-codex_workshop_download_bad				下載監獄失敗
-codex_workshop_pa_workshop				開啟監獄建築師 (Prison Architect) 工作坊
-codex_workshop_agreement				發佈同時代表你同意 [url=http://steamcommunity.com/sharedfiles/workshoplegalagreement]Steam 工作坊的服務條款[/url]。
+codex_workshop_current                  目前監獄
+codex_workshop_publish                  發佈這個監獄
+codex_workshop_update                   更新
+codex_workshop_play                     進行遊戲
+codex_workshop_downloading              下載中
+codex_workshop_download_failed          下載失敗
+codex_workshop_publishing               發佈中...
+codex_workshop_new                      新建
+codex_workshop_title                    標題
+codex_workshop_desc                     說明
+codex_workshop_view_in_workshop         在 Steam 工作坊中檢視
+codex_workshop_heading_pubed            你發佈過的監獄
+codex_workshop_heading_subed            訂閱的監獄
+codex_workshop_published_by             由 *P 發佈
+codex_workshop_published_by_you         由你發佈
+codex_workshop_published_good           監獄已發佈
+codex_workshop_published_good_msg       你的監獄已經成功發佈。
+codex_workshop_published_bad            發佈失敗
+codex_workshop_published_bad_msg        你的監獄發佈失敗。
+codex_workshop_published_bad_msg_new    你的新監獄發佈失敗，請再試一次。
+codex_workshop_busy                     Steam 正在進行某些神秘的魔法儀式，請等待完成後再試一次。
+codex_workshop_file_exists              你已經用這個名字發佈過監獄，請換一個名字。
+codex_workshop_generic_fail             發佈監獄失敗，請再試一次。
+codex_workshop_download_bad             下載監獄失敗
+codex_workshop_pa_workshop              開啟監獄建築師 (Prison Architect) 工作坊
+codex_workshop_agreement                發佈同時代表你同意 [url=http://steamcommunity.com/sharedfiles/workshoplegalagreement]Steam 工作坊的服務條款[/url]。
 
-codex_options_timelapse					定時拍攝錄影 (Time Lapse)
-codex_timelapse_record					開始定時拍攝錄影
-codex_timelapse_stop					停止拍攝錄影
-codex_timelapse_camera					攝影機模式
-codex_timelapse_resolution				解析度
-codex_timelapse_customresw				自訂解析度 寬
-codex_timelapse_customresh				自訂解析度 高
-codex_timelapse_resolution				解析度
-codex_timelapse_fps						重播速率
-codex_timelapse_interval				拍攝間隔
-codex_timelapse_quality					品質
-codex_timelapse_unsupported				你的硬體不支援這項功能
-codex_timelapse_savesettings			儲存設定
+codex_options_timelapse                 定時拍攝錄影 (Time Lapse)
+codex_timelapse_record                  開始定時拍攝錄影
+codex_timelapse_stop                    停止拍攝錄影
+codex_timelapse_camera                  攝影機模式
+codex_timelapse_resolution              解析度
+codex_timelapse_customresw              自訂解析度 寬
+codex_timelapse_customresh              自訂解析度 高
+codex_timelapse_resolution              解析度
+codex_timelapse_fps                     重播速率
+codex_timelapse_interval                拍攝間隔
+codex_timelapse_quality                 品質
+codex_timelapse_unsupported             你的硬體不支援這項功能
+codex_timelapse_savesettings            儲存設定
 
 codex_timelapse_cam_zoom                縮放攝影機
 codex_timelapse_cam_fitmap              符合全地圖
@@ -759,48 +759,48 @@ codex_timelapse_quality_med             中
 codex_timelapse_quality_low             低
 codex_timelapse_interval_value          遊戲內的 *X 分鐘
 
-codex_performance_running				效能測試
-codex_performance_time					剩餘時間: *T秒
-codex_performance_current				目前畫格時間: *T毫秒
-codex_performance_min					最小畫格時間: *T毫秒
-codex_performance_avg					平均畫格時間: *T毫秒
-codex_performance_max					最大畫格時間: *T毫秒
-codex_performance_numframes				畫格數: *T
+codex_performance_running               效能測試
+codex_performance_time                  剩餘時間: *T秒
+codex_performance_current               目前畫格時間: *T毫秒
+codex_performance_min                   最小畫格時間: *T毫秒
+codex_performance_avg                   平均畫格時間: *T毫秒
+codex_performance_max                   最大畫格時間: *T毫秒
+codex_performance_numframes             畫格數: *T
 
-codex_last_modified						最後修改: *T
-codex_sortbydesc						依照日期排序
-codex_sortname							名稱
-codex_sortdate							日期
-codex_apply								套用
+codex_last_modified                     最後修改: *T
+codex_sortbydesc                        依照日期排序
+codex_sortname                          名稱
+codex_sortdate                          日期
+codex_apply                             套用
 codex_select                            選擇
 
-codex_mods								模組
-codex_mod_activetitle					已啟用模組
-codex_mod_inactivetitle					可用模組
-codex_mod_deactivate					停用所有模組
-codex_mod_wiki							尋找更多模組 (Wiki)
-codex_mod_openmodsfolder				開啟模組資料夾
-codex_mod_moresteammods					尋找更多模組 (Steam工作坊)
+codex_mods                              模組
+codex_mod_activetitle                   已啟用模組
+codex_mod_inactivetitle                 可用模組
+codex_mod_deactivate                    停用所有模組
+codex_mod_wiki                          尋找更多模組 (Wiki)
+codex_mod_openmodsfolder                開啟模組資料夾
+codex_mod_moresteammods                 尋找更多模組 (Steam工作坊)
 codex_mod_findsteamtranslations         尋找更多翻譯模組 (Steam工作坊)
 codex_authortitle                       作者
 codex_versiontitle                      版本
 codex_datetitle                         日期
 codex_urltitle                          網址
-codex_typetitle							類型
-codex_mod_graphicsandsound				畫質與音效
-codex_mod_translation					語言翻譯
-codex_mod_scenario						場景故事
-codex_mod_content						擴充內容
-codex_mod_load_scenario					開始玩場景故事
-codex_publishmod						發佈模組
+codex_typetitle                         類型
+codex_mod_graphicsandsound              畫質與音效
+codex_mod_translation                   語言翻譯
+codex_mod_scenario                      場景故事
+codex_mod_content                       擴充內容
+codex_mod_load_scenario                 開始玩場景故事
+codex_publishmod                        發佈模組
 
-codex_mod_update						更新模組
-codex_mod_published_good				模組已發佈
-codex_mod_published_good_msg			你的模組已經成功發佈。
-codex_mod_published_bad					發佈模組失敗
-codex_mod_published_bad_msg				你的模組發佈失敗。
-codex_mod_modsupdated					模組更新
-codex_mod_modsupdated_msg				使用中的某些模組有新的更新，點選確認套用\n新的內容，遊戲將會自動存檔。
+codex_mod_update                        更新模組
+codex_mod_published_good                模組已發佈
+codex_mod_published_good_msg            你的模組已經成功發佈。
+codex_mod_published_bad                 發佈模組失敗
+codex_mod_published_bad_msg             你的模組發佈失敗。
+codex_mod_modsupdated                   模組更新
+codex_mod_modsupdated_msg               使用中的某些模組有新的更新，點選確認套用\n新的內容，遊戲將會自動存檔。
 codex_mod_translationcaption            這是語言包嗎？
 
 codex_language                          語言
@@ -819,10 +819,10 @@ codex_researtchapter_confirm            你確定要重新開始章節嗎？\n�
 # Graphics Change Confirmation
 # =============================================================================
 
-graphicschange_message					要保留目前的畫質設定嗎？修改的設定將會在
-graphicschange_time						秒後回復原本設定。
-graphicschange_accept					接受
-graphicschange_revert					回復
+graphicschange_message                  要保留目前的畫質設定嗎？修改的設定將會在
+graphicschange_time                     秒後回復原本設定。
+graphicschange_accept                   接受
+graphicschange_revert                   回復
 
 # =============================================================================
 # Script
@@ -840,7 +840,7 @@ modnotification_playnow                 進行遊戲
 modnotification_active                  啟用
 modnotification_inactive                停用
 modnotification_new                     新
-modnotification_unknown                 為之
+modnotification_unknown                 未之
 modnotification_popup_title             模組更動
 modnotification_popup_active            此模組目前啟用，按一下停用。
 modnotification_popup_inactive          此模組目前停用，按一下啟用。
@@ -870,25 +870,25 @@ biography_prisoner_priors               前科:
 # Rap Sheet
 # =============================================================================
 
-rapsheet_age							年齡:
-rapsheet_category						類別:
-rapsheet_traits							特徵:
-rapsheet_conviction_text				*C - *Y 年
-rapsheet_found_text						(抗辯: *P)
-rapsheet_convictions					判定罪行
-rapsheet_misconductstitle				近期違規
+rapsheet_age                            年齡:
+rapsheet_category                       類別:
+rapsheet_traits                         特徵:
+rapsheet_conviction_text                *C - *Y 年
+rapsheet_found_text                     (抗辯: *P)
+rapsheet_convictions                    判定罪行
+rapsheet_misconductstitle               近期違規
 rapsheet_biography                      生平簡介
-rapsheet_guilty							有罪
-rapsheet_notguilty						無罪
-rapsheet_served							已服刑
-rapsheet_served_time					已服刑 *Y 年
-rapsheet_time							*Y 年
-rapsheet_bio							因 *A 判處有期徒刑 *Y 年。
-rapsheet_bio_med						因多項罪名，包含 *A 和 *B ，判處有期徒刑 *Y 年。
-rapsheet_bio_long						因多項罪名，包含 *A 、 *B 和 *C ，判處有期徒刑 *Y 年。
-rapsheet_category_minsec				輕刑犯
-rapsheet_category_normal				普通犯
-rapsheet_category_maxsec				重刑犯
+rapsheet_guilty                         有罪
+rapsheet_notguilty                      無罪
+rapsheet_served                         已服刑
+rapsheet_served_time                    已服刑 *Y 年
+rapsheet_time                           *Y 年
+rapsheet_bio                            因 *A 判處有期徒刑 *Y 年。
+rapsheet_bio_med                        因多項罪名，包含 *A 和 *B ，判處有期徒刑 *Y 年。
+rapsheet_bio_long                       因多項罪名，包含 *A 、 *B 和 *C ，判處有期徒刑 *Y 年。
+rapsheet_category_minsec                輕刑犯
+rapsheet_category_normal                普通犯
+rapsheet_category_maxsec                重刑犯
 rapsheet_category_protected             保護收容
 rapsheet_category_supermax              超重刑犯
 rapsheet_category_deathrow              死刑犯
@@ -1068,14 +1068,14 @@ research_missingadministrator           需求:
 roomrequirement_required                需求:
 roomrequirement_recommended             推薦: 
 roomrequirement_minimumsize             最小尺寸 *W x *H
-roomrequirement_minimumsize_short	尺寸 *W x *H
+roomrequirement_minimumsize_short   尺寸 *W x *H
 roomrequirement_indoor                  室內
 roomrequirement_outdoor                 室外
 roomrequirement_solidground             堅固的地面
 roomrequirement_secure                  安全 (至少在一扇門後面)
-roomrequirement_secure_short		安全
+roomrequirement_secure_short            安全
 roomrequirement_enclosed                封閉 (空間需要用牆和門圍起來)
-roomrequirement_enclosed_short		封閉
+roomrequirement_enclosed_short          封閉
 requirement_entrance                    缺乏出入口
 roomrequirement_title                   =[房間需求]=
 roomrequirement_passed                  [合格] 
@@ -1118,7 +1118,7 @@ adviser_name_edwardinmate               愛德華
 adviser_name_edwardswife                愛德華的老婆 蘇珊
 adviser_name_priest                     牧師
 adviser_name_newsreader                 CDNC新聞網
-adviser_name_mayor 						卡爾文・海勒 市長
+adviser_name_mayor                      卡爾文・海勒 市長
 
 
 # =============================================================================
@@ -1141,7 +1141,7 @@ report_schedule                         排程
 report_intake                           收容
 
 report_grants_bankloan                  銀行貸款
-report_grants_bankloan_text             你可以向銀行進行大量貸款，代價是銀行會載你每日資金流動中向你收取利息。\n\n如果你能按時正常還款，你的信用額度就會提升，而銀行就會讓你貸更高的款項。\n但是如果你還款不正常，你的信用額度會降低，銀行就會拒絕更高額的貸款。\n\n註: 單靠繳交每日收取的利息無法償還所有貸款。
+report_grants_bankloan_text             你可以向銀行進行大量貸款，代價是銀行會在你每日資金流動中向你收取利息。\n\n如果你能按時正常還款，你的信用額度就會提升，而銀行就會讓你貸更高的款項。\n但是如果你還款不正常，你的信用額度會降低，銀行就會拒絕更高額的貸款。\n\n註: 單靠繳交每日收取的利息無法償還所有貸款。
 report_grants_max1                      你目前最多只能接受一項補助計畫。\n可透過你的會計師提高這個限制。
 report_grants_max2                      你目前最多只能接受兩項補助計畫。\n可透過你的會計師提高這個限制。
 report_grants_max3                      你最多只能接受三項補助計畫。
@@ -1206,7 +1206,7 @@ report_intakepayment                    費用
 report_intakeall                        全部
 report_intake_list_tooltip_title        收容分類
 report_intake_list_tooltip              這裡是所有你可以收容的類型列表。\n\n剩餘名額顯示每個分類還有多少犯人等待被收容，這個數字會隨著比例調整增長。\n\n調整比例可以改變不同分類下次要收容的人數。
-report_intake_list_tooltip_dr           \n\n監獄必需要先有特殊設計的死刑犯牢房，才能開始收容死刑犯，死刑犯的收容速度也比一般囚犯來的慢，且死刑犯的剩餘名額也不一定會每日成長。死刑犯的人數是少之又少。
+report_intake_list_tooltip_dr           \n\n監獄必須要先有特殊設計的死刑犯牢房，才能開始收容死刑犯，死刑犯的收容速度也比一般囚犯來的慢，且死刑犯的剩餘名額也不一定會每日成長。死刑犯的人數是少之又少。
 report_intake_buttons_tooltip_title     下次新進
 report_intake_buttons_tooltip           你可以在這裡調整下次新進囚犯的人數。\n\n選擇「無」會停止收容新囚犯，而選擇「全部」則下次就會收容所有剩餘名額囚犯。\n\n每個類別的人數由上方比例調整。
 report_intake_overview_tooltip_title    收容總覽
@@ -1280,7 +1280,7 @@ job_escortprisoner                      移送囚犯到 *X
 job_punishprisoner                      處理囚犯
 job_searchobject                        搜查 *X 
 job_searchentity                        搜身
-job_searchingentity						搜身中
+job_searchingentity                     搜身中
 job_searchcell                          搜查牢房
 job_searchcellblock                     搜查牢房區
 job_improvecellindoor                   清理室內區域
@@ -1382,7 +1382,7 @@ victory_adviserwarning_wardendeaths1    在你底下工作實在是太危險了�
 victory_adviserwarning_wardendeaths2    如果你再讓典獄長死掉，我們就只好開除你。
 victory_advisernotice_wardendeaths1     你無法給典獄長一個安全的工作環境，大家都很害怕為你工作。
 victory_advisernotice_wardendeaths2     我們很遺憾只好請你走，你被開除了。
-victory_adviserwarning_reoffenders1     許多提早釋放的囚犯出獄後又再犯了，我們必需要想辦法解決這個問題。
+victory_adviserwarning_reoffenders1     許多提早釋放的囚犯出獄後又再犯了，我們必須要想辦法解決這個問題。
 victory_adviserwarning_reoffenders2     如果太多囚犯出獄後又再犯，這就是你的問題了。
 victory_advisernotice_reoffenders1      你釋放了太多危險罪犯出獄，我們別無選擇只好請你離開，你被開除了。
 victory_adviserwarning_executions1      這是你第二次處死一個無辜的囚犯，現在外面輿論非常憤怒。
@@ -1393,7 +1393,7 @@ victory_advisernotice_InnocentsExecuted1 你未經正常程序就執行死刑，
 score_title                             監獄評鑑
 score_reoffendingrate                   再犯率
 score_prisonersreleased                 *X 名囚犯已釋放
-score_minimumprisonersreleased          *X 名囚犯必需要先釋放才能結算這份報告
+score_minimumprisonersreleased          *X 名囚犯必須先釋放才能結算這份報告
 score_deaths                            *X 名囚犯死於獄中
 score_escapes                           *X 名囚犯已逃獄
 score_reoffendingchance                 預估再犯率
@@ -1524,13 +1524,13 @@ action_getbook                          正在拿書本
 action_pray                             正在祈禱
 action_shopping                         正在購物
 
-status_effect_title						=[狀態影響]=
-status_effect_none						無
-status_effect_suppressed				受壓抑
-status_effect_goodfood					覺得飽足
-status_effect_drunk						喝醉
+status_effect_title                     =[狀態影響]=
+status_effect_none                      無
+status_effect_suppressed                受壓抑
+status_effect_goodfood                  覺得飽足
+status_effect_drunk                     喝醉
 status_effect_high                      興奮
-status_effect_withdrawal				停藥
+status_effect_withdrawal                停藥
 status_effect_tazed                     電暈
 status_effect_overdosed                 服藥過量
 status_effect_surrendered               投降
@@ -1621,7 +1621,7 @@ reputation_copkiller_high               警察殺手
 reputation_instigator_high              煽動者
 reputation_gangmember_high              幫派成員
 
-reputationtooltip_legendary             這個囚犯再犯罪世界中是一個傳奇人物，精通多項技巧和能力上他極端危險。
+reputationtooltip_legendary             這個囚犯在犯罪世界中是一個傳奇人物，精通多項技巧和能力上他極端危險。
 reputationtooltip_strong                這個囚犯在打架的時候每一拳都比別人重。
 reputationtooltip_tough                 這個囚犯在打架的時候可以承受更多的攻擊，有時候甚至能挺住電擊槍的電擊。
 reputationtooltip_volatile              這個囚犯很容易毫無預警且沒有理由的滋事。
@@ -1629,7 +1629,7 @@ reputationtooltip_stoical               這個囚犯在關禁閉的時候不會�
 reputationtooltip_snitch                這個囚犯是一個已知的秘密線人，他提供太多消息因此生命受到威脅，不要讓他與其他囚犯獨處太久。
 reputationtooltip_deadly                這個囚犯精通致命的戰鬥技巧，有時候可以一拳打死人。
 reputationtooltip_exlaw                 這個囚犯曾經是一名警官，或是其他執法人員，他的生命受到其他囚犯的威脅。
-reputationtooltip_copkiller             這個囚犯因為殺警而入獄，你監獄的警衛在壓制他的時候可能會失控而過當執法。
+reputationtooltip_copkiller             這個囚犯因為殺警而入獄，你監獄的警衛在壓制他的時候可能會失控而執法過當。
 reputationtooltip_fearless              這個囚犯不受武裝警衛的威脅，在打架時也不容易投降。
 reputationtooltip_quick                 這個囚犯通常跑得很快。
 reputationtooltip_instigator            這個囚犯善於煽動附近其他囚犯，當他滋事的時候附近的囚犯也會跟著一起鬧。
@@ -1674,7 +1674,7 @@ objective_intake_arrivals               *X 名囚犯將在早上八點抵達
 objective_intake_closed                 你的監獄目前暫停收容新囚犯
 objective_intake_closed2                (詳細請見囚犯報告)
 objective_intake_closed3                (詳細請見收容報告)
-objective_intake_specials				特別移送:
+objective_intake_specials               特別移送:
 objective_intake_categories             分類: 
 objective_intake_minsec                 輕刑犯, 
 objective_intake_medsec                 普通犯, 
@@ -1915,7 +1915,7 @@ object_ingredientscooked                 食材 (已烹調)
 object_ingredientsspoiled                食材 (已變質)
 object_meal                              餐點
 object_foodtray                          餐盤
-object_foodtraydirty                     餐盤 (Dirty)
+object_foodtraydirty                     餐盤 (髒)
 object_grassturf                         Grass Turf
 object_prisoneruniform                   囚衣
 object_dirtyprisoneruniform              囚衣 (髒)
@@ -1984,7 +1984,7 @@ object_pipesmall                         小水管
 object_drain                             排水孔
 object_sprinkler                         灑水器
 object_metaldetector                     金屬探測器
-object_weightsbench                      舉重板凳
+object_weightsbench                      舉重用板凳
 object_phonebooth                        電話亭
 object_tv                                電視
 object_largetv                           大電視
@@ -2314,9 +2314,9 @@ execution_stage_Execution               執行死刑
 execution_stage_Dismissed               員工和見證人離場
 execution_stage_FinalReport             最終報告
 
-execution_stagetooltip_start            你已經為這名囚犯安排執行死刑，現在必需要按照官方標準流程進行。
+execution_stagetooltip_start            你已經為這名囚犯安排執行死刑，現在必須按照官方標準流程進行。
 execution_stagetooltip_lockdown         正在將所有囚犯押送回牢房，監獄現在全面封鎖。
-execution_stagetooltip_testing          最後測試所有設備正常運作，電椅通電電壓在標準負荷範圍內。\n此外，死囚的最終路線已經安排好 - 他必需要能自行走道行刑室。
+execution_stagetooltip_testing          最後測試所有設備正常運作，電椅通電電壓在標準負荷範圍內。\n此外，死囚的最終路線已經安排好 - 他必須要能自行走到行刑室。
 execution_stagetooltip_assemble         典獄長和保安隊長前往死囚的牢房，\n而死囚指定的牧師或精神領袖也抵達了監獄，正在牢房內為死囚進行最後禱告。
 execution_stagetooltip_witnesses        死刑見證人抵達監獄並前往行刑室。\n見證人包含了死囚家屬以及受害者家屬。\n\n注意，死刑見證人需要椅子才能坐下。
 execution_stagetooltip_escort           死囚被護送到行刑室，典獄長、保安隊長以及牧師陪同在身邊。
@@ -2363,7 +2363,7 @@ object_sale_price                       售價: *X
 object_door_cyclepermissions            點此修改存取權限
 object_door_cyclepermissions_1          (開放、員工專用、關閉)
 
-object_firemen_hosehelp_move            點右鍵指揮消逢隊員移動到該位置
+object_firemen_hosehelp_move            點右鍵指揮消防隊員移動到該位置
 object_firemen_hosehelp_intro           消防隊員會將水管對準附近的火源
 object_firemen_hosehelp                 按 H 來手動瞄準水管
 
@@ -2501,7 +2501,7 @@ ceos_letter                             親愛的先生 / 女士，\n\n\n恭喜�
 # Campaign info
 # =============================================================================
 
-campaignchapter_chapternumber			第 *C 章
+campaignchapter_chapternumber           第 *C 章
 
 
 # =============================================================================
@@ -2515,7 +2515,7 @@ campaignchapter_deathrow_description    我們簽下合約，將在這座監獄�
 campaigncutscene_deathrowmurder         雙重謀殺
 campaigncutscene_deathrowconfession     自白
 
-adviser_deathrow_murder1                我就知道，被我逮到了吧你們兩個。
+adviser_deathrow_murder1                我就知道，被我逮到了吧你們這對狗男女。
 adviser_deathrow_murder2                愛德華！我...
 adviser_deathrow_murder25               別，拜託...別。
 adviser_deathrow_murder3                你想做什麼？
@@ -2523,8 +2523,8 @@ adviser_deathrow_murder3                你想做什麼？
 adviser_deathrow_church1                我能為你效勞嗎？
 adviser_deathrow_church15               ...
 adviser_deathrow_church2                你在尋找寬恕嗎？
-adviser_deathrow_church3                我不知道，我必需要做些什麼，我無法原諒我做的事情。
-adviser_deathrow_church4                你必需要自首，無論你做了什麼，你不能逃避後果。
+adviser_deathrow_church3                我不知道，我必須要做些什麼，我無法原諒我做的事情。
+adviser_deathrow_church4                你必須要自首，無論你做了什麼，你不能逃避後果。
 adviser_deathrow_church5                你必須勇於面對過去，否則將無法再面對自己。
 adviser_deathrow_church6                我想回到過去，我想原諒她，我想要她原諒我。
 adviser_deathrow_church7                無論你做過什麼，只要你祈求，上帝都會原諒你。
@@ -2597,7 +2597,7 @@ adviser_deathrow_setupmurder1           別為了這傢伙難過，他是一個�
 adviser_deathrow_setupmurder2           他甚至承認了他的罪刑，想聽聽看他怎麼說的嗎？
 adviser_deathrow_setupmurder3           故事挺有趣的。「那天晚上11點，屋子燈亮著，我知道她在家裡...」
 adviser_deathrow_postmurder1            如同我說的，他是個冷血殺手。
-adviser_deathrow_postmurder2            如果你問我，我非常肯定，電椅上每伏特都是他罪有應得的。
+adviser_deathrow_postmurder2            如果你問我，我非常肯定，處以電椅刑都是他罪有應得的。
 adviser_deathrow_postmurder3            所有人都應該被寬恕，他也不例外，你這麼肯定你能做出這樣的最終審判？
 adviser_deathrow_postmurder4            就算妻子和其他男人被抓姦在床，這也不是辯解的理由。
 adviser_deathrow_postmurder5            而且他帶著上膛的槍走進去，他知道他們兩人在裡面，這是一項預謀雙重謀殺。
@@ -2622,7 +2622,7 @@ objective_deathrow_cellpower            將房間接上電力網路
 
 adviser_deathrow_connectchair_1         燈不是唯一需要電力的設備，你的新電椅也需要。
 adviser_deathrow_connectchair_2         使用電纜線將行刑室接上電力網路。
-adviser_deathrow_connectchair_3         電椅是一個特殊的電力裝置，他需要用專用的電源，你必需要將他直接接在電纜線上。
+adviser_deathrow_connectchair_3         電椅是一個特殊的電力裝置，他需要用專用的電源，你必須將他直接接在電纜線上。
 
 objective_deathrow_chairpower           將電椅接上電力網路
 objective_deathrow_condemnedcellpower   將牢房接上電力網路
@@ -2641,7 +2641,7 @@ objective_deathrow_expandpower          設置三個新的電容器
 objective_deathrow_chairworking         重新測試電椅\n(在設施介面中點選電椅來啟動)
 
 adviser_deathrow_execution_1            幹的好，我想我們完成工作了。
-adviser_deathrow_execution_2            接下來就不是我們管的著的事，我們很專業的完成任務，這對我們這行是很重要的。
+adviser_deathrow_execution_2            接下來就不是我們管得著的事，我們很專業的完成任務，這對我們這行是很重要的。
 adviser_deathrow_execution_3            別擔心接下來發生的事吧。
 
 adviser_deathrow_setupexecution1        是時候了，愛德華。
@@ -2707,7 +2707,7 @@ event_powerstationfire_x                電源突波造成發電機嚴重超載�
 event_powerstationfirelarge             電源突波造成發電機超載而起火燃燒！
 event_powerstationfirelarge_x           電源突波造成發電機嚴重超載，整個爆炸了啊啊！
 event_kitchenfire                       廚房失火了！
-event_waterpipeburst                    水管爆開導致淹水，快在災情更嚴重之前修好他。
+event_waterpipeburst                    水管爆開導致淹水，快在災情更嚴重之前修好。
 event_bulkintake                        附近監獄發生了一些災難造成設施全面停擺，而附近都沒有其他適合的設施，我們\n沒有辦法只好將所有囚犯轉移到你的監獄，他們很快就會抵達。
 event_workshopaccident                  一名囚犯在工作坊不幸因事故而重傷，而且不能移動！快叫醫生，快！
 event_subsidence                        地層下陷造成我們的外圍牆損毀，你應該盡快修復圍牆，現在！
@@ -2727,7 +2727,7 @@ event_tvremovaldemand_complete          媒體焦點轉向其他事情了，所�
 event_weightsremovaldemand_1            媒體針對我們提供給囚犯的福利設施進行報導，讓我辦公室收到很多投訴案件。
 event_weightsremovaldemand_2            現在通過一項新法案，禁止在監獄內的廣場放置運動器材，所以我要你在六小時內\n把所有廣場上的舉重板凳都拆除，否則會接到罰款。
 event_weightsremovaldemand_fine         你沒有在時限內移除廣場上的舉重板凳，現在將由法律強制執行開一張罰單，若不\n盡快改善將會持續收到罰單，直到改善完成為止。
-event_weightsremovaldemand_complete     媒體焦點轉向其他事情了，所以廣場禁止放置運動器材的法案現在也已廢除，如果\n你想要的話，可以把舉重板凳重新裝回去。
+event_weightsremovaldemand_complete     媒體焦點轉向其他事情了，所以廣場禁止放置運動器材的法案現在也已廢除，如果\n你想要的話，可以把舉重用板凳重新裝回去。
 
 event_lessfooddemand_1                  委員會決定在我們多項設施實施經費節約方案，其中也包含了你的監獄。
 event_lessfooddemand_2                  我們希望你能減少餐點份量和菜色種類為低，看看這樣的措施對於整體財務有什麼\n樣的影響。
@@ -2740,7 +2740,7 @@ event_removevisitationdemand_fine       你無法在時限內拆除所有會客�
 event_removevisitationdemand_complete   我們已經全面檢視探監流程的安全問題，現在你可以在監獄內重建會客室了。
 
 event_lessworkdemand_1                  我最近收到囚犯投訴，抗議每天工時太長，如果不縮短工時他們將計畫要製造騷動。
-event_lessworkdemand_2                  一個警衛碰巧聽到囚犯們再討論，如果每天工時超過兩小時，將要把這裡「夷為平\n地」。
+event_lessworkdemand_2                  一個警衛碰巧聽到囚犯們在討論，如果每天工時超過兩小時，將要把這裡「夷為平\n地」。
 event_lessworkdemand_ignore             看起來囚犯們已經放棄念頭並安頓下來，他們有點不爽，不過也該讓他們知道這裡\n誰是老大。
 event_lessworkdemand_complete           囚犯們不再抗議了 - 我猜他們把最近這幾天當作是休假吧，現在應該可以把工時調回去了。
 
