@@ -521,7 +521,7 @@ unused_conviction_intro_4                      我們有一名囚犯目前在自
 unused_conviction_intro_7						我想去跟他談談，但我們必須先阻止自殺事件再次發生。
 
 conviction_workintro1                   我們一直都把這些人當垃圾對待，該稍微改變一下了。
-conviction_workintro2                   前任的執行長從來不相信所謂的囚犯教化改造，但以我的角度來看，我們必需要讓\n這些人對未來感到希望。
+conviction_workintro2                   前任的執行長從來不相信所謂的囚犯教化改造，但以我的角度來看，我們必須要讓\n這些人對未來感到希望。
 conviction_workintro3                   我們必須要教他們一些技能，好讓他們在獲釋之後得以在社會上生存 - 例如有用的職業技能、或是一些基本教育。
 conviction_workintro4                   我們應該展開工作學徒的課程，教他們一些真正有用的技能，讓他們至少有個可以\n期盼的未來。
 
@@ -588,7 +588,7 @@ conviction_helpinmates_3                我想我們應該要解決一下會客�
 conviction_helpinmates_4                建造一個新的會客室，儘管摩根遭遇了這樣的事，但我想我們還是得往好處想，再\n說這裡也不是只有他有家屬想要探訪。
 conviction_helpinmates_5                我正在做一些研究調查，意外的發現這裡很多囚犯都只會基本的算數和閱讀能力，\n我們應該開始補救這個問題。
 conviction_helpinmates_6                建造一個新的教室，然後從外面聘請一些老師來教這些基本的東西，如果沒有適當\n的教育，這些囚犯除了犯罪以外人生就沒有其他的意義。
-conviction_helpinmates_7                此外為了確保大量囚犯持續收容，我們必需要擴張我們的設施，以提供妥善的收容\n環境。
+conviction_helpinmates_7                此外為了確保大量囚犯持續收容，我們必須要擴張我們的設施，以提供妥善的收容\n環境。
 
 conviction_outro1                       我想我們幫這裡改變了很多，我們給這些囚犯一些工作做，並給了他們生活的意義。
 conviction_outro2                       如果你想要的話，可以留下來看看第一批囚犯通過教育和工作課程。

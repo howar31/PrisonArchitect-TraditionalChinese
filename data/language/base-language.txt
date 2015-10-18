@@ -471,7 +471,7 @@ buildtoolbar_popup_obj_light			確保你在任何時間都看的到你的囚犯�
 buildtoolbar_popup_obj_cooker			讓你的囚犯體驗吃熱食的豪華生活。
 buildtoolbar_popup_obj_fridge			避免你的食材變質壞掉。
 buildtoolbar_popup_obj_bin				當扯到違禁品管控的時候，整潔是一件非常重要的事情。
-buildtoolbar_popup_obj_sink				所有的員工都必需要洗手。
+buildtoolbar_popup_obj_sink				所有的員工都必須要洗手。
 buildtoolbar_popup_obj_servingtable		把食物裝盤給你的囚犯領取。
 buildtoolbar_popup_obj_showerhead		蓮蓬的頭，洗澡用。
 buildtoolbar_popup_obj_bookshelf		一個放書的架子。
@@ -499,7 +499,7 @@ buildtoolbar_popup_staff_doctor			自動治療附近受傷的人，不論是警�
 buildtoolbar_popup_staff_cook			用囚犯自己準備的餐點餵飽他們。
 buildtoolbar_popup_staff_gardener		讓你的監獄地面清潔溜溜。
 buildtoolbar_popup_staff_janitor		讓你的監獄室內清潔溜溜，也可以協助囚犯洗衣服。
-buildtoolbar_popup_staff_warden			你監獄的大監督者，必需要先聘僱他才能研發監獄制度和聘請其他高級幹部。
+buildtoolbar_popup_staff_warden			你監獄的最高監督者，必須要先聘僱他才能研發監獄制度和聘請其他高級幹部。
 buildtoolbar_popup_staff_chief			監獄高級幹部，掌管部署介面、閉路監視器、鎮報警衛等等監獄制度。
 buildtoolbar_popup_staff_foreman		監獄高級幹部，負責管理監獄清潔工和園丁。
 buildtoolbar_popup_staff_psychologist	監獄高級幹部，讓你可以瞭解囚犯們的內心世界。
@@ -514,7 +514,7 @@ buildtoolbar_popup_uts_waterpumpstation	提供監獄水源。
 buildtoolbar_popup_uts_pipevalve		任何連接在閥門上的水管可以藉此切換是否流通。
 buildtoolbar_popup_uts_pipelarge		將大量的水配送到監獄各個角落，這水管或許大到可以讓人在裡面爬，穿過五百碼的臭氣而奔向自由。
 buildtoolbar_popup_uts_pipesmall		將水配送到監獄各個角落。
-buildtoolbar_popup_uts_cctv				不需要到處安排警衛就可以隨時監視監獄。\n\n你必需要將這個閉路攝影機連接到一台閉路監視器才能正常運作。
+buildtoolbar_popup_uts_cctv				不需要到處安排警衛就可以隨時監視監獄。\n\n你必須要將這個閉路攝影機連接到一台閉路監視器才能正常運作。
 buildtoolbar_popup_uts_cctvmonitor		專門設置在安全中心內，並由警衛操作的安全設備，可以遠端監看監獄內的閉路攝影機。\n\n使用連接工具將閉路攝影機連接到這台閉路監視器上。\n\n註: 一台閉路監視器一次最多顯示八個攝影機畫面，如果連接超過八台攝影機，則監視器會慢慢的輪流顯示部分攝影機的畫面。
 buildtoolbar_popup_uts_DoorControlSystem  專門設置在安全中心內，並由警衛操作的安全設備，可以遠端開關監獄內的門。\n\n使用連接工具將門禁伺服器連接到這台門禁控制系統上，而門禁伺服器應該要安裝在你想要遙控的門的上方。\n\n註: 你可以連接無限多個門禁伺服器到門禁控制系統上，但是操作系統的警衛最快每秒只能開兩個門。
 buildtoolbar_popup_uts_phonemonitor     專門設置在安全中心內，並由警衛操作的安全設備，讓你可以監聽所有囚犯打出去的電話，即時攔截可能的犯罪計畫。\n\n使用連接工具將電話亭連接到這台電話監聽器上。
@@ -840,7 +840,7 @@ modnotification_playnow                 進行遊戲
 modnotification_active                  啟用
 modnotification_inactive                停用
 modnotification_new                     新
-modnotification_unknown                 為之
+modnotification_unknown                 未知
 modnotification_popup_title             模組更動
 modnotification_popup_active            此模組目前啟用，按一下停用。
 modnotification_popup_inactive          此模組目前停用，按一下啟用。
@@ -1141,7 +1141,7 @@ report_schedule                         排程
 report_intake                           收容
 
 report_grants_bankloan                  銀行貸款
-report_grants_bankloan_text             你可以向銀行進行大量貸款，代價是銀行會載你每日資金流動中向你收取利息。\n\n如果你能按時正常還款，你的信用額度就會提升，而銀行就會讓你貸更高的款項。\n但是如果你還款不正常，你的信用額度會降低，銀行就會拒絕更高額的貸款。\n\n註: 單靠繳交每日收取的利息無法償還所有貸款。
+report_grants_bankloan_text             你可以向銀行進行大量貸款，代價是銀行會在你每日資金流動中向你收取利息。\n\n如果你能按時正常還款，你的信用額度就會提升，而銀行就會讓你貸更高的款項。\n但是如果你還款不正常，你的信用額度會降低，銀行就會拒絕更高額的貸款。\n\n註: 單靠繳交每日收取的利息無法償還所有貸款。
 report_grants_max1                      你目前最多只能接受一項補助計畫。\n可透過你的會計師提高這個限制。
 report_grants_max2                      你目前最多只能接受兩項補助計畫。\n可透過你的會計師提高這個限制。
 report_grants_max3                      你最多只能接受三項補助計畫。
@@ -1206,7 +1206,7 @@ report_intakepayment                    費用
 report_intakeall                        全部
 report_intake_list_tooltip_title        收容分類
 report_intake_list_tooltip              這裡是所有你可以收容的類型列表。\n\n剩餘名額顯示每個分類還有多少犯人等待被收容，這個數字會隨著比例調整增長。\n\n調整比例可以改變不同分類下次要收容的人數。
-report_intake_list_tooltip_dr           \n\n監獄必需要先有特殊設計的死刑犯牢房，才能開始收容死刑犯，死刑犯的收容速度也比一般囚犯來的慢，且死刑犯的剩餘名額也不一定會每日成長。死刑犯的人數是少之又少。
+report_intake_list_tooltip_dr           \n\n監獄必須要先有特殊設計的死刑犯牢房，才能開始收容死刑犯，死刑犯的收容速度也比一般囚犯來的慢，且死刑犯的剩餘名額也不一定會每日成長。死刑犯的人數是少之又少。
 report_intake_buttons_tooltip_title     下次新進
 report_intake_buttons_tooltip           你可以在這裡調整下次新進囚犯的人數。\n\n選擇「無」會停止收容新囚犯，而選擇「全部」則下次就會收容所有剩餘名額囚犯。\n\n每個類別的人數由上方比例調整。
 report_intake_overview_tooltip_title    收容總覽
@@ -1382,7 +1382,7 @@ victory_adviserwarning_wardendeaths1    在你底下工作實在是太危險了�
 victory_adviserwarning_wardendeaths2    如果你再讓典獄長死掉，我們就只好開除你。
 victory_advisernotice_wardendeaths1     你無法給典獄長一個安全的工作環境，大家都很害怕為你工作。
 victory_advisernotice_wardendeaths2     我們很遺憾只好請你走，你被開除了。
-victory_adviserwarning_reoffenders1     許多提早釋放的囚犯出獄後又再犯了，我們必需要想辦法解決這個問題。
+victory_adviserwarning_reoffenders1     許多提早釋放的囚犯出獄後又再犯了，我們必須要想辦法解決這個問題。
 victory_adviserwarning_reoffenders2     如果太多囚犯出獄後又再犯，這就是你的問題了。
 victory_advisernotice_reoffenders1      你釋放了太多危險罪犯出獄，我們別無選擇只好請你離開，你被開除了。
 victory_adviserwarning_executions1      這是你第二次處死一個無辜的囚犯，現在外面輿論非常憤怒。
@@ -1393,7 +1393,7 @@ victory_advisernotice_InnocentsExecuted1 你未經正常程序就執行死刑，
 score_title                             監獄評鑑
 score_reoffendingrate                   再犯率
 score_prisonersreleased                 *X 名囚犯已釋放
-score_minimumprisonersreleased          *X 名囚犯必需要先釋放才能結算這份報告
+score_minimumprisonersreleased          *X 名囚犯必須要先釋放才能結算這份報告
 score_deaths                            *X 名囚犯死於獄中
 score_escapes                           *X 名囚犯已逃獄
 score_reoffendingchance                 預估再犯率
@@ -1621,7 +1621,7 @@ reputation_copkiller_high               警察殺手
 reputation_instigator_high              煽動者
 reputation_gangmember_high              幫派成員
 
-reputationtooltip_legendary             這個囚犯再犯罪世界中是一個傳奇人物，精通多項技巧和能力上他極端危險。
+reputationtooltip_legendary             這個囚犯在犯罪世界中是一個傳奇人物，精通多項技巧和能力上他極端危險。
 reputationtooltip_strong                這個囚犯在打架的時候每一拳都比別人重。
 reputationtooltip_tough                 這個囚犯在打架的時候可以承受更多的攻擊，有時候甚至能挺住電擊槍的電擊。
 reputationtooltip_volatile              這個囚犯很容易毫無預警且沒有理由的滋事。
@@ -1915,8 +1915,8 @@ object_ingredientscooked                 食材 (已烹調)
 object_ingredientsspoiled                食材 (已變質)
 object_meal                              餐點
 object_foodtray                          餐盤
-object_foodtraydirty                     餐盤 (Dirty)
-object_grassturf                         Grass Turf
+object_foodtraydirty                     餐盤 (髒)
+object_grassturf                         草皮
 object_prisoneruniform                   囚衣
 object_dirtyprisoneruniform              囚衣 (髒)
 object_crumpledprisoneruniform           囚衣 (皺成一團)
@@ -2314,9 +2314,9 @@ execution_stage_Execution               執行死刑
 execution_stage_Dismissed               員工和見證人離場
 execution_stage_FinalReport             最終報告
 
-execution_stagetooltip_start            你已經為這名囚犯安排執行死刑，現在必需要按照官方標準流程進行。
+execution_stagetooltip_start            你已經為這名囚犯安排執行死刑，現在必須要按照官方標準流程進行。
 execution_stagetooltip_lockdown         正在將所有囚犯押送回牢房，監獄現在全面封鎖。
-execution_stagetooltip_testing          最後測試所有設備正常運作，電椅通電電壓在標準負荷範圍內。\n此外，死囚的最終路線已經安排好 - 他必需要能自行走道行刑室。
+execution_stagetooltip_testing          最後測試所有設備正常運作，電椅通電電壓在標準負荷範圍內。\n此外，死囚的最終路線已經安排好 - 他必須要能自行走到行刑室。
 execution_stagetooltip_assemble         典獄長和保安隊長前往死囚的牢房，\n而死囚指定的牧師或精神領袖也抵達了監獄，正在牢房內為死囚進行最後禱告。
 execution_stagetooltip_witnesses        死刑見證人抵達監獄並前往行刑室。\n見證人包含了死囚家屬以及受害者家屬。\n\n注意，死刑見證人需要椅子才能坐下。
 execution_stagetooltip_escort           死囚被護送到行刑室，典獄長、保安隊長以及牧師陪同在身邊。
@@ -2363,7 +2363,7 @@ object_sale_price                       售價: *X
 object_door_cyclepermissions            點此修改存取權限
 object_door_cyclepermissions_1          (開放、員工專用、關閉)
 
-object_firemen_hosehelp_move            點右鍵指揮消逢隊員移動到該位置
+object_firemen_hosehelp_move            點右鍵指揮消防隊員移動到該位置
 object_firemen_hosehelp_intro           消防隊員會將水管對準附近的火源
 object_firemen_hosehelp                 按 H 來手動瞄準水管
 
@@ -2523,8 +2523,8 @@ adviser_deathrow_murder3                你想做什麼？
 adviser_deathrow_church1                我能為你效勞嗎？
 adviser_deathrow_church15               ...
 adviser_deathrow_church2                你在尋找寬恕嗎？
-adviser_deathrow_church3                我不知道，我必需要做些什麼，我無法原諒我做的事情。
-adviser_deathrow_church4                你必需要自首，無論你做了什麼，你不能逃避後果。
+adviser_deathrow_church3                我不知道，我必須要做些什麼，我無法原諒我做的事情。
+adviser_deathrow_church4                你必須要自首，無論你做了什麼，你不能逃避後果。
 adviser_deathrow_church5                你必須勇於面對過去，否則將無法再面對自己。
 adviser_deathrow_church6                我想回到過去，我想原諒她，我想要她原諒我。
 adviser_deathrow_church7                無論你做過什麼，只要你祈求，上帝都會原諒你。
@@ -2622,7 +2622,7 @@ objective_deathrow_cellpower            將房間接上電力網路
 
 adviser_deathrow_connectchair_1         燈不是唯一需要電力的設備，你的新電椅也需要。
 adviser_deathrow_connectchair_2         使用電纜線將行刑室接上電力網路。
-adviser_deathrow_connectchair_3         電椅是一個特殊的電力裝置，他需要用專用的電源，你必需要將他直接接在電纜線上。
+adviser_deathrow_connectchair_3         電椅是一個特殊的電力裝置，他需要用專用的電源，你必須要將他直接接在電纜線上。
 
 objective_deathrow_chairpower           將電椅接上電力網路
 objective_deathrow_condemnedcellpower   將牢房接上電力網路
@@ -2641,7 +2641,7 @@ objective_deathrow_expandpower          設置三個新的電容器
 objective_deathrow_chairworking         重新測試電椅\n(在設施介面中點選電椅來啟動)
 
 adviser_deathrow_execution_1            幹的好，我想我們完成工作了。
-adviser_deathrow_execution_2            接下來就不是我們管的著的事，我們很專業的完成任務，這對我們這行是很重要的。
+adviser_deathrow_execution_2            接下來就不是我們管得著的事，我們很專業的完成任務，這對我們這行是很重要的。
 adviser_deathrow_execution_3            別擔心接下來發生的事吧。
 
 adviser_deathrow_setupexecution1        是時候了，愛德華。
@@ -2740,7 +2740,7 @@ event_removevisitationdemand_fine       你無法在時限內拆除所有會客�
 event_removevisitationdemand_complete   我們已經全面檢視探監流程的安全問題，現在你可以在監獄內重建會客室了。
 
 event_lessworkdemand_1                  我最近收到囚犯投訴，抗議每天工時太長，如果不縮短工時他們將計畫要製造騷動。
-event_lessworkdemand_2                  一個警衛碰巧聽到囚犯們再討論，如果每天工時超過兩小時，將要把這裡「夷為平\n地」。
+event_lessworkdemand_2                  一個警衛碰巧聽到囚犯們在討論，如果每天工時超過兩小時，將要把這裡「夷為平\n地」。
 event_lessworkdemand_ignore             看起來囚犯們已經放棄念頭並安頓下來，他們有點不爽，不過也該讓他們知道這裡\n誰是老大。
 event_lessworkdemand_complete           囚犯們不再抗議了 - 我猜他們把最近這幾天當作是休假吧，現在應該可以把工時調回去了。
 

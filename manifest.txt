@@ -2,8 +2,8 @@
 Name                 "Traditional Chinese v1.0"  
 Author               Howar31  
 Description          "Traditional Chinese MOD for v1.0 by Howar31.\n\nThis mod is available on Steam Workshop:\nhttp://steamcommunity.com/sharedfiles/itemedittext/?id=473471025\n\nThe project of this mod is hosted on GitHub:\nhttps://github.com/howar31/PrisonArchitect-TraditionalChinese/\n\nFor more detail please visit Steam Workshop."  
-Version              "v1.0 v4"  
-Date                 2015/10/13  
+Version              "v1.0 v5"  
+Date                 2015/10/18  
 URL                  howar31.com  
 IsTranslation        true  
 FileID               F473471025  
