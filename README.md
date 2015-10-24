@@ -1,6 +1,6 @@
 # 監獄建築師正體中文翻譯模組
 
-本模組由 [Howar31](http://howar31.com) 翻譯製作，適用於遊戲版本v1.0
+本模組由 [Howar31](http://howar31.com) 翻譯製作，適用於 Prison Architect 遊戲版本v1.0
 
 * Steam工作坊
   http://steamcommunity.com/sharedfiles/filedetails/?id=473471025

@@ -2578,11 +2578,11 @@ objective_deathrow_executionobjects     設置一張電椅
 adviser_deathrow_optional1              嗯這樣基本需求就完成了，但仍然有一些小地方可以改進。
 adviser_deathrow_optional2              不過這些不是必要，就看你有多在乎你的囚犯和他們的環境。
 adviser_deathrow_optional3              牢房可以增加一扇對外窗戶，和一個小書架。
-adviser_deathrow_optional4              而高級地板材質，例如木頭或拼花地板，也可以讓設施看起來更高級。
-adviser_deathrow_optional5              在戶外你可以加裝一些路燈，有需要的話可以用鋪路石鋪一條路。
+adviser_deathrow_optional4              而高級地板材質，例如木頭或拼花地板，也可以讓設施看起來\n更高級。
+adviser_deathrow_optional5              在戶外你可以加裝一些路燈，有需要的話可以用鋪路石鋪一條\n路。
 
 adviser_deathrow_transfer05             就是這個男人，愛德華 羅姆西，他曾經是個老師，你相信嗎？
-adviser_deathrow_transfer06             我們無法決定他的命運，法律已經給予制裁，我們只能做好我們的工作。
+adviser_deathrow_transfer06             我們無法決定他的命運，法律已經給予制裁，我們只能做好我\n們的工作。
 adviser_deathrow_transfer1              當你滿意新設施後，你可以開始移送死囚到他的新牢房。
 adviser_deathrow_transfer2              點選他，然後在他牢房外按右鍵，即可開始移送。
 
@@ -2595,10 +2595,10 @@ objective_deathrow_transferinmate       當你完成後，請開始移送死囚�
 
 adviser_deathrow_setupmurder1           別為了這傢伙難過，他是一個有罪的冷血殺手。
 adviser_deathrow_setupmurder2           他甚至承認了他的罪刑，想聽聽看他怎麼說的嗎？
-adviser_deathrow_setupmurder3           故事挺有趣的。「那天晚上11點，屋子燈亮著，我知道她在家裡...」
+adviser_deathrow_setupmurder3           故事挺有趣的。\n「那天晚上11點，屋子燈亮著，我知道她在家裡...」
 adviser_deathrow_postmurder1            如同我說的，他是個冷血殺手。
 adviser_deathrow_postmurder2            如果你問我，我非常肯定，電椅上每伏特都是他罪有應得的。
-adviser_deathrow_postmurder3            所有人都應該被寬恕，他也不例外，你這麼肯定你能做出這樣的最終審判？
+adviser_deathrow_postmurder3            所有人都應該被寬恕，他也不例外，你這麼肯定你能做出這樣\n的最終審判？
 adviser_deathrow_postmurder4            就算妻子和其他男人被抓姦在床，這也不是辯解的理由。
 adviser_deathrow_postmurder5            而且他帶著上膛的槍走進去，他知道他們兩人在裡面，這是一項預謀雙重謀殺。
 adviser_deathrow_postmurder6            他沒有抵抗的與警方合作，而你們是想做一個殺雞儆猴的例子。
@@ -2614,7 +2614,7 @@ adviser_deathrowelectricityb_1          現在這是監獄的設施介面，顯�
 adviser_deathrowelectricityb_2          監獄內每棟建築物，都透過地底巨大的電纜線與電力網路連接。
 adviser_deathrowelectricityb_3          而監獄的電力由這座變電站提供，他會從國家電力網路中抽取電力。
 adviser_deathrowelectricityb_4          如同你所見，監獄這部分都沒有電，所有的燈都熄了。
-adviser_deathrowelectricityb_4b         為了修正這個問題，我們必須先切換到設施介面，察看為什麼這些燈都不會亮。
+adviser_deathrowelectricityb_4b         為了修正這個問題，我們必須先切換到設施介面，察看為什麼這\n些燈都不會亮。
 adviser_deathrowelectricityb_5          附近的電纜線距離太遠了 - 我們的工程師無法在這個區域配線。
 adviser_deathrowelectricityb_6          延長電纜線的長度來覆蓋監獄的這端。
 
@@ -2622,14 +2622,14 @@ objective_deathrow_cellpower            將房間接上電力網路
 
 adviser_deathrow_connectchair_1         燈不是唯一需要電力的設備，你的新電椅也需要。
 adviser_deathrow_connectchair_2         使用電纜線將行刑室接上電力網路。
-adviser_deathrow_connectchair_3         電椅是一個特殊的電力裝置，他需要用專用的電源，你必須要將他直接接在電纜線上。
+adviser_deathrow_connectchair_3         電椅是一個特殊的電力裝置，他需要用專用的電源，你必須要將\n他直接接在電纜線上。
 
 objective_deathrow_chairpower           將電椅接上電力網路
 objective_deathrow_condemnedcellpower   將牢房接上電力網路
 
-adviser_deathrow_testchair_1            我想我們快完成了，在正式行刑前，我們至少要先測試一次，看看新行刑室有沒有問題。
+adviser_deathrow_testchair_1            我想我們快完成了，在正式行刑前，我們至少要先測試一次，看\n看新行刑室有沒有問題。
 adviser_deathrow_testchair_2            我現在將電源打開幾秒，確定一下一切正常。
-adviser_deathrow_testchair_3            呃，電椅無法使用，看來我們使用太多電力，讓變電站跳電了，現在整座監獄陷入黑暗。
+adviser_deathrow_testchair_3            呃，電椅無法使用，看來我們使用太多電力，讓變電站跳電了，\n現在整座監獄陷入黑暗。
 adviser_deathrow_testchair_4            我們需要更多電力，來應付電椅啟動時瞬間需要的大電流。
 adviser_deathrow_testchair_5            首先，我們先重新打開電源，這需要兩個步驟:
 adviser_deathrow_testchair_5b           點選變電站然後開啟電源。
@@ -2641,7 +2641,7 @@ objective_deathrow_expandpower          設置三個新的電容器
 objective_deathrow_chairworking         重新測試電椅\n(在設施介面中點選電椅來啟動)
 
 adviser_deathrow_execution_1            幹的好，我想我們完成工作了。
-adviser_deathrow_execution_2            接下來就不是我們管得著的事，我們很專業的完成任務，這對我們這行是很重要的。
+adviser_deathrow_execution_2            接下來就不是我們管得著的事，我們很專業的完成任務，這對我\n們這行是很重要的。
 adviser_deathrow_execution_3            別擔心接下來發生的事吧。
 
 adviser_deathrow_setupexecution1        是時候了，愛德華。
