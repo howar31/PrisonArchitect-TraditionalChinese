@@ -806,6 +806,7 @@ credits_special3                        Jo Stansfield
 credits_special4                        John Cook
 credits_special5                        Alex Chapman
 credits_special6                        Alex Tutty
+credits_special7                        Double Eleven
 credits_introversion                    - INTROVERSION SOFTWARE -
 credits_introversion1                   Chris Delay
 credits_introversion2                   Mark Morris
@@ -866,6 +867,7 @@ escapemode_surrender                    投降
 escapemode_surrender_safe               戰鬥結束
 escapemode_surrender_button             空白鍵
 
+escapemode_helpletter                   幫助
 escapemode_gameover                     遊戲結束
 
 escapemode_reputation_points            聲望值:
