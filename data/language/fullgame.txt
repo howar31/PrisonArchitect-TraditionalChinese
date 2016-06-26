@@ -55,7 +55,7 @@ adviser_food_troublesoon1				沒有食物，囚犯們會在幾天內就把牆給
 adviser_food_troublesoon2 				我們必須在暴動發生前搞定監獄問題。
 adviser_food_troublesoon3 				這是部署介面，從這裡你可以控制並派遣所有警衛。
 adviser_food_troublesoon4 				部署一些警衛到各個牢房和房間內，指派十個警衛，這人數應該足夠應付目前監獄\n的狀況。
-adviser_food_troublesoon5				我還要一些警位在監獄內空地周圍巡邏，之後要在那邊蓋新建築。
+adviser_food_troublesoon5				我還要一些警衛在監獄內空地周圍巡邏，之後要在那邊蓋新建築。
 adviser_food_troublesoon6				最後一件事，因為餐廳無法營業，有些裝在箱子內的食物可能壞了，把這些食物丟\n了以免病菌傳染。
 
 objective_food_deployguards				在監獄內部屬十名警衛
@@ -103,7 +103,7 @@ adviser_food_explainneeds1 				所有的囚犯都有個人需求，這些需求�
 adviser_food_explainneeds2 				食物是他們最需要的東西，如果無視這個需求後果可能不堪設想，失敗的餐點管理\n很容易造成監獄暴動。
 adviser_food_explainneeds3 				你可以在右下角監獄報告上的需求頁面看到囚犯的個人需求。
 adviser_food_explainneeds4				這份報告顯示所有囚犯的整體需求，紅色代表該項需求很多人不滿意。
-adviser_food_explainneeds5 				如同你所預料的一樣，食物幾乎是全紅的，除此之外囚犯們也很無聊 (休閒) ，還\n有環境和衣著需求也顯示整個監獄目前狀況很糟。
+adviser_food_explainneeds5 				如同你所預料的一樣，食物幾乎是全紅的，除此之外囚犯們也很無聊 (休閒) \n，還有環境和衣著需求也顯示整個監獄目前狀況很糟。
 adviser_food_explainneeds6				身為駐監建築師，這將由你來決定哪些需求要先處理，例如你可以在牢房裡面安裝\n電視來避免囚犯無聊，再雇用一些清潔工來整理環境。
 adviser_food_explainneeds7				或是你也可以無視囚犯的需求，完全依靠武力來壓制囚犯。
 adviser_food_explainneeds8 				接下來就讓你自己決定。
