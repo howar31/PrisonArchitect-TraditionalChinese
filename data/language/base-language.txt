@@ -2205,7 +2205,7 @@ reformerror_noregimetime                課表已滿
 reformerror_noteachers                  沒有教師
 
 reform_interested                       *X 位有興趣 
-reform_interested_qualified             *X 位有興趣/已通過
+reform_interested_qualified             *X 位有興趣/有資格
 reform_queued                           *X 位等待中
 reform_completion                       - *X 位已完成 - *Y 位通過 (*P%)
 reform_locked                           已鎖定
